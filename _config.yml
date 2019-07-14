@@ -4,9 +4,10 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 github:
-  repository_url: https://github.com/retrokid
-  stackoverflow_url: https://stackoverflow.com/users/2122253/efe
-  medium_url: https://medium.com/@appledeveloper0
+  github_url: https://github.com/retrokid
 twitter:
   twitter_url: https://twitter.com/appledeveloper0
-  
+stackoverflow:
+  stackoverflow_url: https://stackoverflow.com/users/2122253/efe
+medium:
+  medium_url: https://medium.com/@appledeveloper0
