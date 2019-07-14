@@ -5,4 +5,6 @@ google_analytics:
 theme: jekyll-theme-hacker
 github:
   repository_url: https://github.com/retrokid
-  another_url: twitter.com
+  twitter_url: twitter.com
+  stackoverflow_url: stackoverflow.com
+  medium_url: medium.com
