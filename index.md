@@ -12,7 +12,9 @@ Minimum required MacOS version is 10.10.
 Im still working on it to bring more features.
 Please update your app regularly so you can have those features when i release a new version.
 
-For more information please visit here:
+For more information please visit here one of the links below:
+
+[Privacy Policy](/statusbartimer-pirvacy-policy)
 
 For support and help please visit here:
 
