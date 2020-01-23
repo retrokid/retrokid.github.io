@@ -1,9 +1,9 @@
 
-# My Apps:
+# Apps
 ------------------------------
 ## Status Bar Timer
 
-image here
+![Status Bar Timer Icon](/images/status_bar_timer/statusbartimer-icon.png)
 
 Status Bar Timer is a high performance stopwatch.
 It has coded with the latest Swift 5.1 language and latest apple libraries and designed for the latest MacOS.
