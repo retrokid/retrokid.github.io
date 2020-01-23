@@ -41,6 +41,6 @@ For more information and support please use one of the choices below:
 
 - twitter
 [Reach me via twitter](https://twitter.com/efeertugrul_)
-- e-mail
-[Reach me via e-mail](statusbartimer@gmail.com)
+- e-mail statusbartimer@gmail.com
+[Reach me via e-mail](mailto:statusbartimer@gmail.com)
 
