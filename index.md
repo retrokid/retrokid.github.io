@@ -1,6 +1,8 @@
 
 # Apps
+
 ------------------------------
+
 ## Status Bar Timer
 
 ![Status Bar Timer Icon](/images/status_bar_timer/statusbartimer-icon.png)
@@ -12,13 +14,10 @@ Minimum required MacOS version is 10.10.
 Im still working on it to bring more features.
 Please update your app regularly so you can have those features when i release a new version.
 
-For more information please visit here one of the links below:
+For more information please visit one of the links below:
+
+[Support / Help](/status-bar-timer-support-help)
 
 [Privacy Policy](/statusbartimer-pirvacy-policy)
-
-For support and help please visit here:
-
-For privacy policy please visit here:
-
 
 -------------------------------
