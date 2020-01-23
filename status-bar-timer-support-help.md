@@ -37,10 +37,9 @@
 
 -----------------------------
 
-For more information and support please use one of the choices below:
+### For more information and support please use one of the choices below:
 
-- twitter
-[Reach me via twitter](https://twitter.com/efeertugrul_)
-- e-mail statusbartimer@gmail.com
-[Reach me via e-mail](mailto:statusbartimer@gmail.com)
+- twitter: [@efeertugrul_](https://twitter.com/efeertugrul_)
+- e-mail statusbartimer@gmail.com: [Send Mail](mailto:statusbartimer@gmail.com)
 
+[Back to main page](../index)
