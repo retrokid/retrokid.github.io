@@ -6,11 +6,14 @@ After you install the app, you can start it from your Applications folder.
 
 ![Status bar timer support image1](/images/status_bar_timer/statusbartimer-support-img01.png)
 
-Once you start the app it attachs itself at your Status Bar. You won't see an app in your dock.
+Once you start the app it attachs itself at your Status Bar. 
+
+You won't see an app in your dock.
 
 ![Status bar timer support image2](/images/status_bar_timer/statusbartimer-support-img02.png)
 
 To start counting click on the app to see the menu.
+
 And click Start or press command+s while the menu is open.
 
 ![Status bar timer support image3](/images/status_bar_timer/statusbartimer-support-img03.png)
