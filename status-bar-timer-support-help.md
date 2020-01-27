@@ -34,6 +34,7 @@
 
 ![Status bar timer support image8](/images/status_bar_timer/statusbartimer-support-img08.png)
 
+- Note: If timer reaches 99 hours it will automatically stop. From that point you can either reset or quit. 
 
 -----------------------------
 
