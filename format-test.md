@@ -1,3 +1,5 @@
+[download as .md](https://github.com/retrokid/retrokid.github.io/blob/master/format-test.md)
+
 # H1
 ## H2
 ### H3
