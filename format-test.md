@@ -1,4 +1,4 @@
-[download as .md](https://github.com/retrokid/retrokid.github.io/blob/master/format-test.md)
+[download as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/format-test.md)
 
 # H1
 ## H2
