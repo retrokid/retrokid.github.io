@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics: UA-34720961-1
 theme: jekyll-theme-hacker
 homepage:
-  homepage_url: http://efeertugrul.com/index
+  homepage_url: http://efeertugrul.com/
 github:
   github_url: https://github.com/retrokid
 twitter:
