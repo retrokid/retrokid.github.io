@@ -1,5 +1,3 @@
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/delegate-protocol.md)
-
 **GameScene**
 
 ```swift
@@ -61,3 +59,4 @@ protocol PlayerControllerDelegate
 }
 ```
 
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/delegate-protocol.md)
