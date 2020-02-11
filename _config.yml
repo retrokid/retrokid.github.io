@@ -5,6 +5,8 @@ google_analytics: UA-34720961-1
 theme: jekyll-theme-hacker
 homepage:
   homepage_url: http://efeertugrul.com/
+technotes:
+  technotes_url: http://efeertugrul.com/tech-notes
 github:
   github_url: https://github.com/retrokid
 twitter:
