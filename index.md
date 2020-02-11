@@ -22,8 +22,15 @@ For more information please visit one of the links below:
 
 -------------------------------
 
+
+
+
+
+
+
 # Tech Notes
 
 ------------------------------
 
+[Markdown Cheatsheet]
 [Swift Delegate Protocol](/tech_notes/delegate-protocol)
