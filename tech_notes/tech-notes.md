@@ -6,3 +6,4 @@
 
 [Swift Delegate Protocol](/tech_notes/delegate-protocol)
 
+------------------------------
