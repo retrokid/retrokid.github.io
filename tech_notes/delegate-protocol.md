@@ -1,3 +1,7 @@
+# Delegate Protocol
+
+-----------------------
+
 **GameScene**
 
 ```swift

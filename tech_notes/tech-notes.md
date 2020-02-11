@@ -6,4 +6,6 @@
 
 [Swift Delegate Protocol](/tech_notes/delegate-protocol)
 
+[.gitignore add and apply](/tech_notes/add-apply-gitignore)
+
 ------------------------------
