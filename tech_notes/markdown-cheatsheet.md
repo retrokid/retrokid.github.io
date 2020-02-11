@@ -1,4 +1,4 @@
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/format-test.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/markdown-cheatsheet.md)
 
 # H1
 ## H2
