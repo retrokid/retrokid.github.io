@@ -21,3 +21,9 @@ For more information please visit one of the links below:
 [Privacy Policy](/statusbartimer-pirvacy-policy)
 
 -------------------------------
+
+# Tech Notes
+
+------------------------------
+
+[Swift Delegate Protocol](/tech_notes/delegate-protocol)
