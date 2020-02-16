@@ -8,4 +8,6 @@
 
 [.gitignore add and apply](/tech_notes/add-apply-gitignore)
 
+[GnuPG](/tech_notes/gnupg)
+
 ------------------------------
