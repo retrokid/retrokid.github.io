@@ -61,7 +61,7 @@ gpg -c test.txt
 **Decrypt with .conf files active:**
 
 ```sh
-gpg --decrypt test.txt.asc
+gpg test.txt.asc
 ```
 
 ### Batch
