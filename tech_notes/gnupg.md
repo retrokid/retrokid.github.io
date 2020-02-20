@@ -64,9 +64,9 @@ gpg -c test.txt
 gpg test.txt.asc
 ```
 
-### Batch
+### Batch Mode
 
-**Encrypt with Batch mode**
+**Encrypt with batch mode:**
 
 ```sh
 echo your_password | gpg -c --batch --yes --passphrase-fd 0 your_file.gpg
