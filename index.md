@@ -3,11 +3,11 @@
 
 ------------------------------
 
-## Status Bar Timer
+## Menu Bar Timer
 
 ![Status Bar Timer Icon](/images/status_bar_timer/statusbartimer-icon.png)
 
-Status Bar Timer is a high performance stopwatch.
+Menu Bar Timer is a high performance stopwatch.
 It has coded with the latest Swift 5.1 language and latest apple libraries and designed for the latest MacOS.
 
 Minimum required MacOS version is 10.10.
