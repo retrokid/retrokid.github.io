@@ -1,4 +1,4 @@
-# Status Bar Timer Support / Help
+# Menu Bar Timer Support / Help
 
 ### Basic Usage
 
