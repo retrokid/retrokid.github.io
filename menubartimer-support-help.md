@@ -50,13 +50,15 @@
 
 ![menu bar timer support image12](/images/menu_bar_timer/menubartimer-support-img12.png)
 
-- Note: If stopwatch reaches 99 hours or timer reaches 0 app will automatically stop. From that point you can either reset or quit. 
+### Notes:
 
-- Note: You can only change mode if you reset your timer/stopwatch or if you have just launched the app. You cannot edit mode if your timer is counting. You have to reset your timer or quit the app.
+- If stopwatch reaches 99 hours or timer reaches 0 app will automatically stop. From that point you can either reset or quit. 
+
+- You can only change mode if you reset your timer/stopwatch or if you have just launched the app. You cannot edit mode if your timer is counting. You have to reset your timer or quit the app.
 
 ![menu bar timer support image13](/images/menu_bar_timer/menubartimer-support-img13.png)
 
-- Note: App will remember Mode menu changes. If you quit and open the app it will start with your last configuration. 
+- App will remember Mode menu changes. If you quit and open the app it will start with your last configuration. 
 
 -----------------------------
 
