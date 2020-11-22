@@ -42,11 +42,11 @@
 
 ![menu bar timer support image10](/images/menu_bar_timer/menubartimer-support-img10.png) 
 
-11- You can set a timer between "99 hours - 59 minutes" and "0 hour - 1 minute".
+11- You can set timer between "99 hours - 59 minutes" and "0 hour - 1 minute".
 
 ![menu bar timer support image11](/images/menu_bar_timer/menubartimer-support-img11.png)
 
-12- You can close this window by pressing either "X" button on top-left or "Save and close" button on bottom-right. If you want to cancel your changes use "X" button on top-left.
+12- You can close this window by pressing either "X" button on top-left or "Save and close" button on bottom-right. If you don't want to save your changes use "X" button on top-left.
 
 ![menu bar timer support image12](/images/menu_bar_timer/menubartimer-support-img12.png)
 
@@ -55,6 +55,8 @@
 - Note: You can only change mode if you reset your timer/stopwatch or if you have just launched the app. You cannot edit mode if your timer is counting. You have to reset your timer or quit the app.
 
 ![menu bar timer support image13](/images/menu_bar_timer/menubartimer-support-img13.png)
+
+- Note: App will remember Mode menu changes. If you quit and open the app it will start with your last configuration. 
 
 -----------------------------
 
