@@ -1,6 +1,6 @@
 # Menu Bar Timer Support / Help
 
-### Basic Usage
+### Basic Usage v2.2
 
 1- After you install the app, you can start it from your Applications folder.
 
@@ -30,15 +30,35 @@
 
 ![menu bar timer support image7](/images/menu_bar_timer/menubartimer-support-img07.png)
 
-8- And finally to reach me you can click on the website button.
+8- To reach me you can click on the website button.
 
 ![menu bar timer support image8](/images/menu_bar_timer/menubartimer-support-img08.png)
 
-- Note: If timer reaches 99 hours it will automatically stop. From that point you can either reset or quit. 
+9- At v2.2 there is a Mode button.
+
+![menu bar timer support image9](/images/menu_bar_timer/menubartimer-support-img09.png)
+
+10- If you press this button you will see a Menu with options stopwatch and timer. You can choose stopwatch to count-up and time to count-down.
+
+![menu bar timer support image10](/images/menu_bar_timer/menubartimer-support-img10.png) 
+
+11- You can set a timer between "99 hours - 59 minutes" and "0 hour - 1 minute".
+
+![menu bar timer support image11](/images/menu_bar_timer/menubartimer-support-img11.png)
+
+12- You can close this window by pressing either "X" button on top-left or "Save and close" button on bottom-right. If you want to cancel your changes use "X" button on top-left.
+
+![menu bar timer support image12](/images/menu_bar_timer/menubartimer-support-img12.png)
+
+- Note: If stopwatch reaches 99 hours or timer reaches 0 app will automatically stop. From that point you can either reset or quit. 
+
+- Note: You can only change mode if you reset your timer/stopwatch or if you have just launched the app. You cannot edit mode if your timer is counting. You have to reset your timer or quit the app.
+
+![menu bar timer support image13](/images/menu_bar_timer/menubartimer-support-img13.png)
 
 -----------------------------
 
-### For more information and support please use one of the choices below:
+### To reach me please use one of the choices below:
 
 - twitter: [@efeertugrul_](https://twitter.com/efeertugrul_)
 - e-mail menubartimer@gmail.com: [Send Mail](mailto:menubartimer@gmail.com)
