@@ -50,7 +50,9 @@
 
 ![menu bar timer support image12](/images/menu_bar_timer/menubartimer-support-img12.png)
 
-### Notes:
+------------------------------
+
+### Notes
 
 - If stopwatch reaches 99 hours or timer reaches 0 app will automatically stop. From that point you can either reset or quit. 
 
