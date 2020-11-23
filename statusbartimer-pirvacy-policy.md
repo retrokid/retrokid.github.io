@@ -12,6 +12,6 @@
 
 5- It doesn't have any kind of 3rd party code. (e.g. open source libraries etc.)
 
-6- I guarantee that this policy will not be change.
+6- I guarantee that this policy will not change.
 
 [Back to main page](../index)
