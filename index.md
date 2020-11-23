@@ -18,7 +18,7 @@ For more information please visit one of the links below:
 
 [Support / Help](/menubartimer-support-help)
 
-[Privacy Policy](/menubartimer-pirvacy-policy)
+[Privacy Policy](/statusbartimer-pirvacy-policy)
 
 -------------------------------
 
