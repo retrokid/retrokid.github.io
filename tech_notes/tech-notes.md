@@ -10,4 +10,6 @@
 
 [GnuPG](/tech_notes/gnupg)
 
+[Zip & Split](/tech_notes/zip-split)
+
 ------------------------------
