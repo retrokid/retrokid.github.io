@@ -1,51 +1,43 @@
-Zip directory, without compressing and encrypting with a password:
+# Zip and Split notes
 
-```
+----------------------
+
+**zip directory, without compressing and encrypting with a password:**
+
+```sh
 zip -0er backup-desktop.zip backup_desktop/
 ```
 
-> 0: no compression
-> e: encrypt it with a password
-> r: means whole directory
+**split backup-desktop.zip to 1megabyte files in backup_split directory with backup-desktop- prefix:**
 
-Split **backup-desktop.zip** in **backup_split** directory with **backup-desktop-** prefix:
-
-```
+```sh
 split -b 1m backup-desktop.zip backup_split/backup-desktop-
 ```
-> -b 1m: 1 Megabyte size of each file
 
-Use md5 to print **checksum** of **backup-desktop.zip** file:
+**md5 backup-desktop.zip file:**
 
-```
+```sh
 md5 -q backup-desktop.zip
 ```
 
-> -q: print only checksum
+**md5 splitted files**
 
-Print splitted files' **checksum**
-
-```
+```sh
 cat backup_split/backup-desktop-* | md5 -q
 ```
 
-> cat backup_split/backup-desktop-* : merge files in backup_split with "backup-desktop-" prefix.
-> | md5 -q:  send that merged files to md5 -q and md5 -q will print another text which is splitted files' checksum.
+**merge files:**
 
-
-Merge files:
-
-```
+```sh
 cat backup-desktop-* > backup-desktop.zip
 ```
 
-> cat backup-desktop-* : means merge every file in directory with backup-desktop- prefix.
-> > backup-desktop.zip: means save merged files as backup-desktop.zip
+**unzip files:**
 
-Unzip it:
-
-```
+```sh
 unzip backup-desktop.zip
 ```
 
+-------------------
 
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/zip-split.md)
