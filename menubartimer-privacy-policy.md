@@ -15,3 +15,5 @@
 6- I guarantee that this policy will not change.
 
 [Back to main page](../index)
+
+--------------------
