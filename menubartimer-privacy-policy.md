@@ -1,4 +1,6 @@
-## Menu Bar Timer Privacy Policy
+# Menu Bar Timer Privacy Policy
+
+--------------------
 
 ![Menu Bar Timer Icon](/images/menu_bar_timer/menubartimer-icon.png)
 
