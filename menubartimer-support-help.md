@@ -2,7 +2,7 @@
 
 ----------------------------
 
-### Basic Usage v2.2
+### Basic Usage v2.3
 
 1- After you install the app, you can start it from your Applications folder.
 
