@@ -50,6 +50,18 @@
 
 ![menu bar timer support image12](/images/menu_bar_timer/menubartimer-support-img12.png)
 
+13- In v2.3 there is also an alarm sound feature. You can enable alarm and select a .wav file to play also you can choose how many times it will play.
+
+![menu bar timer support image v2.3 1](/images/menu_bar_timer/menubartimer-support-img-v2_3-1.png)
+
+14- If you choose these options below it means that when timer reaches zero it will play `wr.wav` file `30 times`. 
+
+![menu bar timer support image v2.3 2](/images/menu_bar_timer/menubartimer-support-img-v2_3-2.png)
+
+15- You can stop playing alarm by simply clicking the app in the menu bar.
+
+![menu bar timer support image v2.3 3](/images/menu_bar_timer/menubartimer-support-img-v2_3-3.png)
+
 ------------------------------
 
 ### Notes
@@ -61,6 +73,12 @@
 ![menu bar timer support image13](/images/menu_bar_timer/menubartimer-support-img13.png)
 
 - App will remember Mode menu changes. If you quit and open the app it will start with your last configuration. 
+
+- If app starts to act weird after an update. I suggest you to delete all your settings and reinstall app. 
+
+- To delete all your settings, first delete the app. Then go to `~/Library/Containers/com.efeertugrul.STBar-Timer/Data/Library/Preferences/` and delete `com.efeertugrul.STBar-Timer.plist` file if there is one.
+
+![menu bar timer support image v2.3 n1](/images/menu_bar_timer/menubartimer-support-img-v2_3-n1.png)
 
 -----------------------------
 
