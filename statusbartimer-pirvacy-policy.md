@@ -1,5 +1,7 @@
 ## Menu Bar Timer Privacy Policy
 
+------------------------
+
 ![Menu Bar Timer Icon](/images/menu_bar_timer/menubartimer-icon.png)
 
 1- This app does not collect any kind of data.
@@ -13,5 +15,7 @@
 5- It doesn't have any kind of 3rd party code. (e.g. open source libraries etc.)
 
 6- I guarantee that this policy will not change.
+
+------------------------
 
 [Back to main page](../index)

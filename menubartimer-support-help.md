@@ -1,5 +1,7 @@
 # Menu Bar Timer Support / Help
 
+----------------------------
+
 ### Basic Usage v2.2
 
 1- After you install the app, you can start it from your Applications folder.
@@ -50,7 +52,7 @@
 
 ![menu bar timer support image12](/images/menu_bar_timer/menubartimer-support-img12.png)
 
-13- In v2.3 there is also an alarm sound feature. You can enable alarm and select a .wav file to play also you can choose how many times it will play.
+13- In v2.3 there is also an alarm sound feature. You can enable alarm and select a `.wav` file to play also you can choose how many times it will play. When you select `.wav` file you will hear how it sounds.
 
 ![menu bar timer support image v2.3 1](/images/menu_bar_timer/menubartimer-support-img-v2_3-1.png)
 
