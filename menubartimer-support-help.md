@@ -2,7 +2,7 @@
 
 ----------------------------
 
-### Basic Usage v2.3
+### Basic Usage v2.4
 
 1- After you install the app, you can start it from your Applications folder.
 
@@ -63,6 +63,12 @@
 15- You can stop playing alarm by simply clicking the app in the menu bar.
 
 ![menu bar timer support image v2.3 3](/images/menu_bar_timer/menubartimer-support-img-v2_3-3.png)
+
+16- In v2.4 there is a blink option in timer mode. You can select this option and rate of blink. When timer reaches zero menu bar text will blink with choosen rate. 0.1 rate is the fastest and 0.5 is the slowest. App will blink when you choose a rate to show how fast the rate is.
+
+![menu bar timer support image v2.4 1](/images/menu_bar_timer/menubartimer-support-img-v2_4-1)
+
+17- You can stop blinking by clicking the app in the menu bar.
 
 ------------------------------
 
