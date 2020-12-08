@@ -66,7 +66,7 @@
 
 16- In v2.4 there is a blink option in timer mode. You can select this option and rate of blink. When timer reaches zero menu bar text will blink with choosen rate. 0.1 rate is the fastest and 0.5 is the slowest. App will blink when you choose a rate to show how fast the rate is.
 
-![menu bar timer support image v2.4 1](/images/menu_bar_timer/menubartimer-support-img-v2_4-1)
+![menu bar timer support image v2.4 1](/images/menu_bar_timer/menubartimer-support-img-v2_4-1.png)
 
 17- You can stop blinking by clicking the app in the menu bar.
 
