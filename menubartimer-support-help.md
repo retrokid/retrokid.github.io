@@ -84,9 +84,6 @@
 
 - If app starts to act weird after an update. I suggest you to delete all your settings and reinstall app. 
 
-- To delete all your settings, first delete the app. Then go to `~/Library/Containers/com.efeertugrul.STBar-Timer/Data/Library/Preferences/` and delete `com.efeertugrul.STBar-Timer.plist` file if there is one.
-
-![menu bar timer support image v2.3 n1](/images/menu_bar_timer/menubartimer-support-img-v2_3-n1.png)
 
 -----------------------------
 
