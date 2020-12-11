@@ -8,7 +8,7 @@
 
 ![menu bar timer support image1](/images/menu_bar_timer/menubartimer-support-img01.png)
 
-2- Once you start the app it attachs itself at your Menu Bar. You won't see an app in your dock.
+2- Once you start the app it attachs itself at your Menu Bar. **You won't see an app in your dock.**
 
 ![menu bar timer support image2](/images/menu_bar_timer/menubartimer-support-img02.png)
 
@@ -68,7 +68,9 @@
 
 ![menu bar timer support image v2.4 1](/images/menu_bar_timer/menubartimer-support-img-v2_4-1.png)
 
-17- You can stop blinking by clicking the app in the menu bar.
+17- You can stop blinking by clicking the app in the menu bar. 
+
+18- Blinking will automatically stop after blinked 200 times.
 
 ------------------------------
 
