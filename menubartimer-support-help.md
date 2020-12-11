@@ -82,9 +82,6 @@
 
 - App will remember Mode menu changes. If you quit and open the app it will start with your last configuration. 
 
-- If app starts to act weird after an update. I suggest you to delete all your settings and reinstall app. 
-
-
 -----------------------------
 
 ### To reach me please use one of the choices below:
