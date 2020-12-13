@@ -21,4 +21,4 @@ For more information please visit one of the links below:
 [Privacy Policy](/menubartimer-privacy-policy)
 
 -------------------------------
-##### Copyright © 2020 Efe Ertugrul. All rights reserved.
+###### Copyright © 2020 Efe Ertugrul. All rights reserved.
