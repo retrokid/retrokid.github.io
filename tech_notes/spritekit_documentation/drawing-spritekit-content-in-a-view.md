@@ -54,7 +54,7 @@ Because the code in this article sets up a view, you add it to your view control
 
 ---------------------------------
 
-[download this page as .md](link)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/drawing-spritekit-content-in-a-view.md)
 
 [download this page as .pdf](link)
 
