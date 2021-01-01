@@ -13,7 +13,7 @@ Display SpriteKit content on the screen by configuring a SpriteKit renderer, its
 
 ###### Figure 1: An image displayed in a SpriteKit view
 
-![drawing-spritekit-content-in-a-view-001](/images/drawing-spritekit-content-in-a-view-001.png)
+![drawing-spritekit-content-in-a-view-001](/images/001-drawing-spritekit-content-in-a-view-001.png)
 
 Because the code in this article sets up a view, you put the lines from each of the following code listings into a view controller's `viewDidLoad()` function.
 
@@ -54,19 +54,8 @@ Because the code in this article sets up a view, you add it to your view control
 
 ---------------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/drawing-spritekit-content-in-a-view.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/001-drawing-spritekit-content-in-a-view.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/drawing-spritekit-content-in-a-view.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/001-drawing-spritekit-content-in-a-view.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)
-
-
-
-
-
-
-
-
-
-
-
