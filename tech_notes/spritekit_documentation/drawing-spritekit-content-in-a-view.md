@@ -55,8 +55,10 @@ Because the code in this article sets up a view, you add it to your view control
 ---------------------------------
 
 [download this page as .md](link)
+
 [download this page as .pdf](link)
-[back to SpriteKit documentation](/spritekit-documentation)
+
+[back to SpriteKit documentation](./spritekit-documentation)
 
 
 
