@@ -21,7 +21,7 @@ Because the code in this article sets up a view, you put the lines from each of 
 
 Everything displayed with SpriteKit is done through a scene object, which is an instance of `SKScene`. Use the following code to set up a basic scene:
 
-```
+```swift
 let scene = SKScene(size: skView.bounds.size)
 
 // Set the scene coordinates (0, 0) to the center of the screen.
@@ -35,7 +35,7 @@ For further discussion about how setting the anchorPoint changes an object's pos
 
 You use node objects to display graphics in a SpriteKit view. SpriteKit provides different nodes depending on the content. In this case, use an `SKSpriteNode` to display an image in the view:
 
-```
+```swift
 let image = SKSpriteNode(imageNamed: "myImage.png")
 
 // Add the image to the scene.
@@ -44,7 +44,7 @@ scene.addChild(image)
 
 After you set up the scene, you display it in the view by calling `presentScene(_:)`:
 
-```
+```swift
 if let skView = self.view as? SKView { 
     skView.presentScene(scene)
 }
