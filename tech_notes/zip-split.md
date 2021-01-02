@@ -41,3 +41,5 @@ unzip backup-desktop.zip
 -------------------
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/zip-split.md)
+
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/zip-split.pdf)
