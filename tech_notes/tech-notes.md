@@ -2,7 +2,7 @@
 
 ------------------------------
 
-[SpriteKit Documentation](/tech_notes/spritekit_documentation/spritekit-documentation)
+[SpriteKit Documentation/](/tech_notes/spritekit_documentation/spritekit-documentation)
 
 [Markdown Cheatsheet](/tech_notes/markdown-cheatsheet)
 
