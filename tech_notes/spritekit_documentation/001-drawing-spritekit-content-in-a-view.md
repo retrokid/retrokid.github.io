@@ -8,7 +8,7 @@ Display visual content using SpriteKit.
 
 Display SpriteKit content on the screen by configuring a SpriteKit renderer, its scene, and the visual objects you lay out on top of the scene. SpriteKit provides objects that are designed specifically for various types of content, but for simplicity, this article displays an image in a view.
 
-> __Note__
+> __Note__:
 > There are other ways to draw SpriteKit content besides using a view.
 
 ###### Figure 1: An image displayed in a SpriteKit view
