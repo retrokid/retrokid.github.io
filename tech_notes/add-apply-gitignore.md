@@ -11,3 +11,5 @@
 ----------------------
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/add-apply-gitignore.md)
+
+[download this page as .md]()
