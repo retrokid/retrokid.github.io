@@ -46,7 +46,7 @@ skView.presentScene(scene)
 
 --------------------------
 
-[download this page as .md]()
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/002-skscene-creating-a-scene-from-a-file.md)
 
 [download this page as .pdf]()
 
