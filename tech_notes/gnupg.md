@@ -75,3 +75,5 @@ echo your_password | gpg -c --batch --yes --passphrase-fd 0 your_file.gpg
 -------------------
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/gnupg.md)
+
+[download this page as .pdf]()
