@@ -8,6 +8,8 @@
 
 [02: (SKScene) Creating a Scene from a File](/tech_notes/spritekit_documentation/002-skscene-creating-a-scene-from-a-file)
 
-85 files remaining
+[03: (SKScene) Scaling a Scene's Content to Fit the View](/tech_notes/spritekit_documentation/003-skscene-scaling-a-scenes-content-to-fit-the-view)
+
+84 files remaining
 
 -------------------------
