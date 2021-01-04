@@ -4,7 +4,6 @@
 
 Load a scene that you configure in Xcode's scene editor.
 
-
 ### Overview
 
 The most common way to load an `SKScene` is through an .sks file configured in Xcode's scene editor. Making your base changes in the editor is faster than writing equivalent initialization code, and it avoids repeating code if you create a scene in multiple places.

@@ -10,7 +10,9 @@
 
 [03: (SKScene) Scaling a Scene's Content to Fit the View](/tech_notes/spritekit_documentation/003-skscene-scaling-a-scenes-content-to-fit-the-view)
 
-84 files remaining
+[04: (SKScene) Positioning a Scene's Origin Within its View](/tech_notes/spritekit_documentation/004-skscene-positioning-a-scenes-origin-within-its-view)
+
+83 files remaining
 
 -------------------------
 
