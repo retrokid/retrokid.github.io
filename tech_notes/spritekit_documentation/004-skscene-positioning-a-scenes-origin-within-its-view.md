@@ -18,7 +18,7 @@ A scene’s `position` property is ignored by Scene Kit because the scene is alw
 
 ###### Figure 1 Default anchor for a scene is in the lower-left corner of the view
 
-![positioning-a-scenes-origin-within-its-view-001](004-skscene-positioning-a-scenes-origin-within-its-view-001.png)
+![positioning-a-scenes-origin-within-its-view-001](/images/004-skscene-positioning-a-scenes-origin-within-its-view-001.png)
 
 
 The default value for the anchor point is `zero`, which places it at the lower-left corner. The scene’s visible coordinate space is (0,0) to (width,height). The default anchor point is most useful for games that do not scroll a scene’s content.
@@ -30,7 +30,7 @@ The second-most common anchor point value is (0.5,0.5), which centers the scene�
 
 ###### Figure 2 Moving the anchor point to the center of the view
 
-![positioning-a-scenes-origin-within-its-view-001](004-skscene-positioning-a-scenes-origin-within-its-view-002.png)
+![positioning-a-scenes-origin-within-its-view-001](/images/004-skscene-positioning-a-scenes-origin-within-its-view-002.png)
 
 As a result of setting the anchorPoint and size, you indirectly set the scene’s frame, which determines the portion of the scene that's visible to the user.
 
