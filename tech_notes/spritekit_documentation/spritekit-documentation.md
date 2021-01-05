@@ -12,7 +12,9 @@
 
 [04: (SKScene) Positioning a Scene's Origin Within its View](/tech_notes/spritekit_documentation/004-skscene-positioning-a-scenes-origin-within-its-view)
 
-83 files remaining
+[05: (SKScene) Responding to Frame-Cycle Events](/tech_notes/spritekit_documentation/005-skscene-responding-to-frame-cycle-events)
+
+82 files remaining
 
 -------------------------
 
