@@ -14,7 +14,9 @@
 
 [05: (SKScene) Responding to Frame-Cycle Events](/tech_notes/spritekit_documentation/005-skscene-responding-to-frame-cycle-events)
 
-82 files remaining
+[06: (SKScene) Subclassing Scenes Versus Assigning a Delegate](/tech_notes/spritekit_documentation/006-skscene-subclassing-scenes-versus-assigning-a-delegate)
+
+81 files remaining
 
 -------------------------
 

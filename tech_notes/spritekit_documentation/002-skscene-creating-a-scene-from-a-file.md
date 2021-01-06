@@ -40,7 +40,7 @@ let scene = SKScene(fileNamed: "MyScene")
 skView.presentScene(scene)
 ```
 
-> __Note__:
+> __Note:__
 > The .sks file extension is left out of the String name argument to `init(fileNamed:)`.
 
 --------------------------
