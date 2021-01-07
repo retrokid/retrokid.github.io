@@ -16,7 +16,9 @@
 
 [06: (SKScene) Subclassing Scenes Versus Assigning a Delegate](/tech_notes/spritekit_documentation/006-skscene-subclassing-scenes-versus-assigning-a-delegate)
 
-81 files remaining
+[07: (SKSceneDelegate) Use SpriteKit Objects within Scene Delegate Callbacks](007-skscenedelegate-use-spritekit-objects-within-scene-delegate-call.md)
+
+80 files remaining
 
 -------------------------
 
