@@ -15,6 +15,6 @@ SpriteKit is largely a single threaded game engine and as such the API provides 
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/007-skscenedelegate-use-spritekit-objects-within-scene-delegate-call.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/007-skscenedelegate-use-spritekit-objects-within-scene-delegate-call.md.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/007-skscenedelegate-use-spritekit-objects-within-scene-delegate-call.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)
