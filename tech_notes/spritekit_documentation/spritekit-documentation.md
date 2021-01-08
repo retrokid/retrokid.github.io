@@ -16,9 +16,11 @@
 
 [06: (SKScene) Subclassing Scenes Versus Assigning a Delegate](/tech_notes/spritekit_documentation/006-skscene-subclassing-scenes-versus-assigning-a-delegate)
 
-[07: (SKSceneDelegate) Use SpriteKit Objects within Scene Delegate Callbacks](007-skscenedelegate-use-spritekit-objects-within-scene-delegate-call.md)
+[07: (SKSceneDelegate) Use SpriteKit Objects within Scene Delegate Callbacks](/tech_notes/spritekit_documentation/007-skscenedelegate-use-spritekit-objects-within-scene-delegate-call)
 
-80 files remaining
+[08: (SKScene) Creating a Scene with a Transparent Background](/tech_notes/spritekit_documentation/008-skscene-creating-a-scene-with-a-transparent-background)
+
+79 files remaining
 
 -------------------------
 
