@@ -20,7 +20,9 @@
 
 [08: (SKScene) Creating a Scene with a Transparent Background](/tech_notes/spritekit_documentation/008-skscene-creating-a-scene-with-a-transparent-background)
 
-79 files remaining
+[09: (SKScene)](/tech_notes/spritekit_documentation/009-skscene-using-audio-nodes-with-the-scenes-listener)
+
+78 files remaining
 
 -------------------------
 
