@@ -9,7 +9,7 @@ Add audio to your scene, and optionally give it 2D-positional mixing characteris
 The simplest way to add audio to a SpriteKit scene is to add a child `SKAudioNode` to it:
 
 
-```
+```swift
 let audio = SKAudioNode(fileNamed: "drums.mp3")
 
 spriteKitViewController.scene.addChild(audio)
