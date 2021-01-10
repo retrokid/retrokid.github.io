@@ -22,7 +22,9 @@
 
 [09: (SKScene) Using Audio Nodes with the Scene's Listener](/tech_notes/spritekit_documentation/009-skscene-using-audio-nodes-with-the-scenes-listener)
 
-78 files remaining
+[10: (Nodes for scene building) Using Base Nodes to Lay Out SpriteKit Content](/tech_notes/spritekit_documentation/010-nodesforscenebuilding-using-base-nodes-to-lay-out-spritekit-content)
+
+77 files remaining
 
 -------------------------
 
