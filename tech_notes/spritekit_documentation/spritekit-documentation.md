@@ -24,8 +24,11 @@
 
 [10: (Nodes for scene building) Using Base Nodes to Lay Out SpriteKit Content](/tech_notes/spritekit_documentation/010-nodesforscenebuilding-using-base-nodes-to-lay-out-spritekit-content)
 
+[11: (SKNode) Getting Started with Nodes](/tech_notes/spritekit_documentation/011-sknode-getting-started-with-nodes)
 
-> 77 files remaining
+[wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
+
+> 76 files remaining
 
 -------------------------
 
