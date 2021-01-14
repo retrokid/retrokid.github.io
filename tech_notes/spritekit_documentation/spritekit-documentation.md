@@ -26,6 +26,8 @@
 
 [11: (SKNode) Getting Started with Nodes](/tech_notes/spritekit_documentation/011-sknode-getting-started-with-nodes)
 
+[12: (SKNode) About Node Drawing Order](/tech_notes/spritekit_documentation/012-sknode-about-node-drawing-order)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
 > 76 files remaining
