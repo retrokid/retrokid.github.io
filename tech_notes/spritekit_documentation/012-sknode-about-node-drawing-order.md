@@ -98,7 +98,13 @@ Because zPosition is additive across parent-child node relationships, you can us
 > __Important:__
 > The `SKCropNode` and `SKEffectNode` node classes alter the scene rendering behavior. The children of these nodes are rendered independently as a separate node tree, and the results are rendered into the tree that contains the crop or effect node. For more information, see Working with Other Node Types.
 
+-----------------
 
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/012-sknode-about-node-drawing-order.md)
+
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/012-sknode-about-node-drawing-order.pdf)
+
+[back to SpriteKit documentation](./spritekit-documentation)
 
 
 
