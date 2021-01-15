@@ -105,19 +105,3 @@ Because zPosition is additive across parent-child node relationships, you can us
 [download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/012-sknode-about-node-drawing-order.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
