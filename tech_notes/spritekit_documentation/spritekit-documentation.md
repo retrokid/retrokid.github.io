@@ -34,9 +34,11 @@
 
 [15: (SKNode) Customizing the Behavior of a Node](/tech_notes/spritekit_documentation/015-sknode-customizing-the-behavior-of-a-node)
 
+[16: (SKNode) About Node Property Propagation](/tech_notes/spritekit_documentation/016-sknode-about-node-property-propagation)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
-> 72 files remaining
+> 71 files remaining
 
 -------------------------
 
