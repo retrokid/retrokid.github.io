@@ -6,7 +6,7 @@ Learn which properties of a node affect its child nodes.
 
 ### Overview
 
-Changing certain properties on a node can propogate to its decendents:
+Changing certain properties on a node can propagate to its decendants:
 
 | Property | Description |
 |----------|-------------|
