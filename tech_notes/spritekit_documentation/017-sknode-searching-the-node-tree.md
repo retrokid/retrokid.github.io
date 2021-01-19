@@ -76,7 +76,7 @@ Table 2 shows some useful search strings to help get you started.
 | //* | Matches every node in the tree. |
 | A[0-9] | Matches any of the current node’s children that are named A0, A1, …, A9. |
 | Abby/Normal | Matches any grandchild of the current node when the grandchild is named Normal and the grandchild’s parent is named Abby. |
-| //Abby/Normal | Matches matches any nodes in the tree that are named Normal and whose parents are named Abby. |
+| //Abby/Normal | Matches any nodes in the tree that are named Normal and whose parents are named Abby. |
 
 --------------------
 
