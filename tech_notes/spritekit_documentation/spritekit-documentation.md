@@ -36,9 +36,11 @@
 
 [16: (SKNode) About Node Property Propagation](/tech_notes/spritekit_documentation/016-sknode-about-node-property-propagation)
 
+[17: (SKNode) Searching the Node Tree](/tech_notes/spritekit_documentation/017-sknode-searching-the-node-tree)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
-> 71 files remaining
+> 70 files remaining
 
 -------------------------
 
