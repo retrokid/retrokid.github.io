@@ -6,7 +6,7 @@ Create, configure, and run actions in SpriteKit.
 
 ### Overview
 
-You tell nodes to run an instance of `SKAction` when you want to animate contents of your scene. When the scene processes frames of animation, the actions are executed. Some actions are completed in a single frame of animation, while other actions apply changes over multiple frames of animation before completing. The most common use for actions is to animate changes to a node’s properties. For example, you can create actions that move a node, scale or rotate it, or fade its transparency. However, actions can also change the node tree, play sounds, or even execute custom code.
+You tell nodes to run an instance of `SKAction` when you want to animate the contents of your scene. When the scene processes frames of animation, the actions are executed. Some actions are completed in a single frame of animation, while other actions apply changes over multiple frames of animation before completing. The most common use for actions is to animate changes to a node’s properties. For example, you can create actions that move a node, scale or rotate it, or fade its transparency. However, actions can also change the node tree, play sounds, or even execute custom code.
 
 ### Create and Run an Action
 
