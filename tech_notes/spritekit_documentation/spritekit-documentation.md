@@ -38,9 +38,11 @@
 
 [17: (SKNode) Searching the Node Tree](/tech_notes/spritekit_documentation/017-sknode-searching-the-node-tree)
 
+[18: (SKNode) Getting Started with Actions](/tech_notes/spritekit_documentation/018-sknode-getting-started-with-actions)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
-> 70 files remaining
+> 69 files remaining
 
 -------------------------
 
