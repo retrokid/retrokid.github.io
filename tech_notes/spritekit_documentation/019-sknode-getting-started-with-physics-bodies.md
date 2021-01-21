@@ -82,7 +82,7 @@ scene.addChild(ground)
 
 After running for a few moments, the above code creates a scene that looks like the following illustration—the sprite node has come to rest in one of the valleys of the curvy ground line.
 
-![getting-started-with-physics-bodies-002](019-sknode-getting-started-with-physics-bodies-002.png)
+![getting-started-with-physics-bodies-002](/images/019-sknode-getting-started-with-physics-bodies-002.png)
 
 --------------------------
 
