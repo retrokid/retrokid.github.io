@@ -40,9 +40,11 @@
 
 [18: (SKNode) Getting Started with Actions](/tech_notes/spritekit_documentation/018-sknode-getting-started-with-actions)
 
+[19: (SKNode) Getting Started with Physics Bodies](/tech_notes/spritekit_documentation/019-sknode-getting-started-with-physics-bodies)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
-> 69 files remaining
+> 68 files remaining
 
 -------------------------
 
