@@ -46,7 +46,7 @@
 
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
-> 68 files remaining
+> 67 files remaining
 
 -------------------------
 
