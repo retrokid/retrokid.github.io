@@ -42,6 +42,8 @@
 
 [19: (SKNode) Getting Started with Physics Bodies](/tech_notes/spritekit_documentation/019-sknode-getting-started-with-physics-bodies)
 
+[20: (SKNode) Controlling User Interaction on Nodes](/tech_notes/spritekit_documentation/020-sknode-controlling-user-interaction-on-nodes)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
 > 68 files remaining
