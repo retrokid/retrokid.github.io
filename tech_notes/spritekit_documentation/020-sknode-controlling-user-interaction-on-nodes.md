@@ -173,7 +173,7 @@ scene.addChild(composite)
 
 In this case, only touches or mouse events over the red spots shown in Figure 2 will call `touchesBegan(_:with:)`.
 
-###### Figure 2 User events reported over a node's nontransparent content
+###### Figure 2 User events reported over a node's non-transparent content
 
 ![020-sknode-controlling-user-interaction-on-nodes-002](/images/020-sknode-controlling-user-interaction-on-nodes-002.png)
 
