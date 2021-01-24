@@ -44,6 +44,8 @@
 
 [20: (SKNode) Controlling User Interaction on Nodes](/tech_notes/spritekit_documentation/020-sknode-controlling-user-interaction-on-nodes)
 
+[21: (SKNode) Understanding Hit-Testing](/tech_notes/spritekit_documentation/021-sknode-understanding-hit-testing)
+
 [wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
 
 > 67 files remaining
