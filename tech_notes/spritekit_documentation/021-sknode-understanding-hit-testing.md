@@ -2,7 +2,7 @@
 
 -----------------
 
-Learn how find child nodes at a given point by using hit-testing.
+Learn how to find child nodes at a given point by using hit-testing.
 
 ### Overview
 
