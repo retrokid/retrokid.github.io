@@ -27,7 +27,7 @@ For all other SpriteKit nodes that draw, pay attention to the `showsDrawCount` s
 
 The number of nodes in your scene relates to the number of draw calls. Therefore, minimizing the number of nodes in your scene is a good practice to keep the draw call count down. Showing the node count in your scene is done through the SKView `showsNodeCount` property.
 
-The number of nodes in your scene can also affect performance if you enumerate all of your nodes within the update life cycle. While the SKView `shouldCullNonVisibleNodes` property can prune offscreen nodes out of an issued draw call, SpriteKit must still enumerate all nodes in your scene to figure out which ones are offscreen, and this is an expensive operation. As a result, eliminating offscreen nodes yourself by using `removeFromParent()` is the fastest way to cull nonvisible nodes. Once a node is removed from the node tree, SpriteKit no longer needs to consider whether it's onscreen or offscreen every frame.
+The number of nodes in your scene can also affect performance if you enumerate all of your nodes within the update life cycle. While the SKView `shouldCullNonVisibleNodes` property can prune offscreen nodes out of an issued draw call, SpriteKit must still enumerate all nodes in your scene to figure out which ones are offscreen, and this is an expensive operation. As a result, eliminating offscreen nodes yourself by using `removeFromParent()` is the fastest way to cull non visible nodes. Once a node is removed from the node tree, SpriteKit no longer needs to consider whether it's onscreen or offscreen every frame.
 
 ------------------------
 
