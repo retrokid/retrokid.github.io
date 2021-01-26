@@ -50,9 +50,9 @@
 
 [23: (SKCameraNode) Getting Started with a Camera](/tech_notes/spritekit_documentation/023-skcameranode-getting-started-with-a-camera)
 
-[wrong link]: http://efeertugrul.com/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance
+[24: (Nodes for scene building) Maximizing Node Drawing Performance](/tech_notes/spritekit_documentation/024-nodesforscenebuilding-maximizing-node-drawing-performance)
 
-> 64 files remaining
+> 63 files remaining
 
 -------------------------
 

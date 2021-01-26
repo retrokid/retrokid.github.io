@@ -31,8 +31,8 @@ The number of nodes in your scene can also affect performance if you enumerate a
 
 ------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/024-nodesforscenebuilding-maximizing-node-drawing-performance.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/011-nodesforscenebuilding-maximizing-node-drawing-performance.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/024-nodesforscenebuilding-maximizing-node-drawing-performance.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)
