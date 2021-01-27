@@ -52,7 +52,9 @@
 
 [24: (Nodes for scene building) Maximizing Node Drawing Performance](/tech_notes/spritekit_documentation/024-nodesforscenebuilding-maximizing-node-drawing-performance)
 
-> 63 files remaining
+[25: (SKSpriteNode) Getting Started with Sprite Nodes](/tech_notes/spritekit_documentation/025-skspritenode-getting-started-with-sprite-nodes)
+
+> 62 files remaining
 
 -------------------------
 
