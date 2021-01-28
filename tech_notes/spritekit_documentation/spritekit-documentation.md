@@ -54,7 +54,9 @@
 
 [25: (SKSpriteNode) Getting Started with Sprite Nodes](/tech_notes/spritekit_documentation/025-skspritenode-getting-started-with-sprite-nodes)
 
-> 62 files remaining
+[26: (SKSpriteNode) Using the Anchor Point to Move a Sprite](/tech_notes/spritekit_documentation/026-skspritenode-using-the-anchor-point-to-move-a-sprite)
+
+> 61 files remaining
 
 -------------------------
 
