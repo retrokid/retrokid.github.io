@@ -56,7 +56,9 @@
 
 [26: (SKSpriteNode) Using the Anchor Point to Move a Sprite](/tech_notes/spritekit_documentation/026-skspritenode-using-the-anchor-point-to-move-a-sprite)
 
-> 61 files remaining
+[27: (SKSpriteNode) Resizing a Sprite in Nine Parts](/tech_notes/spritekit_documentation/027-skspritenode-resizing-a-sprite-in-nine-parts)
+
+> 60 files remaining
 
 -------------------------
 
