@@ -18,7 +18,7 @@ For example, if the sprite node’s base size is 32 x 32 pixels and it has an `x
 
 When a sprite node’s frame is larger than its texture, the texture is stretched to cover its frame. Normally, the texture is stretched uniformly across the frame, as shown in the following figure.
 
-![resizing-a-sprite-in-nine-parts-001](/images/027-skspritenode-resizing-a-sprite-in-nine-parts-001)
+![resizing-a-sprite-in-nine-parts-001](/images/027-skspritenode-resizing-a-sprite-in-nine-parts-001.png)
 
 However, sometimes you want to use sprite nodes to build user interface elements, such as buttons or health indicators. Often, these elements contain fixed-size elements, such as end caps, that should not be stretched. In this case, use a portion of the texture without stretching, and then stretch the remaining part of the texture over the rest of the frame.
 
@@ -31,7 +31,7 @@ The sprite’s `centerRect` property, which is specified in unit coordinates of 
 
 The following figure shows a close-up view of a texture you might use to draw a user interface button. The complete texture is 28 x 28 pixels. The corner pieces are each 12 x 12 pixels and the center is 4 x 4 pixels.
 
-![resizing-a-sprite-in-nine-parts-002](/images/027-skspritenode-resizing-a-sprite-in-nine-parts-002)
+![resizing-a-sprite-in-nine-parts-002](/images/027-skspritenode-resizing-a-sprite-in-nine-parts-002.png)
 
 The following code shows how this button sprite would be initialized. The `centerRect` property is computed based on the design of the texture.
 
@@ -45,7 +45,7 @@ button.centerRect = CGRect(x: 12.0/28.0,
 
 The following figure shows that the corners remain the same, even when the button is drawn at different sizes.
 
-![resizing-a-sprite-in-nine-parts-003](/images/027-skspritenode-resizing-a-sprite-in-nine-parts-003)
+![resizing-a-sprite-in-nine-parts-003](/images/027-skspritenode-resizing-a-sprite-in-nine-parts-003.png)
 
 ------------------
 
