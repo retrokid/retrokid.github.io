@@ -58,7 +58,9 @@
 
 [27: (SKSpriteNode) Resizing a Sprite in Nine Parts](/tech_notes/spritekit_documentation/027-skspritenode-resizing-a-sprite-in-nine-parts)
 
-> 60 files remaining
+[28: (SKSpriteNode) Tinting a Sprite](/tech_notes/spritekit_documentation/028-skspritenode-tinting-a-sprite)
+
+> 59 files remaining
 
 -------------------------
 
