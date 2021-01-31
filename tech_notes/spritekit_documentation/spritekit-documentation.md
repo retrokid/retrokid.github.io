@@ -60,7 +60,9 @@
 
 [28: (SKSpriteNode) Tinting a Sprite](/tech_notes/spritekit_documentation/028-skspritenode-tinting-a-sprite)
 
-> 59 files remaining
+[29: (SKSpriteNode) Blending a Sprite with Different Interpretations of Alpha](/tech_notes/spritekit_documentation/029-skspritenode-blending-a-sprite-with-different-interpretations-of-alpha)
+
+> 58 files remaining
 
 -------------------------
 
