@@ -37,6 +37,8 @@ With the default blend mode of `SKBlendMode.alpha`, the thee circles look like:
 
 However, with a blend mode of `SKBlendMode.add`, the color values are added together, creating a scene that looks like:
 
+![blending-a-sprite-with-different-interpretations-of-alpha-002](/images/029-skspritenode-blending-a-sprite-with-different-interpretations-of-alpha-002.png)
+
 ----------------------------
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/029-skspritenode-blending-a-sprite-with-different-interpretations-of-alpha.md)
