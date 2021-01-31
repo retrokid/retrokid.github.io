@@ -31,7 +31,7 @@ for (index, imageName) in imageNames.enumerated() {
 }
 ```
 
-With the default blend mode of `SKBlendMode.alpha`, the thee circles look like:
+With the default blend mode of `SKBlendMode.alpha`, the three circles look like:
 
 ![blending-a-sprite-with-different-interpretations-of-alpha-001](/images/029-skspritenode-blending-a-sprite-with-different-interpretations-of-alpha-001.png)
 
