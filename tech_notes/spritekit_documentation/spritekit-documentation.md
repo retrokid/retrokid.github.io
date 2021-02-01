@@ -62,7 +62,9 @@
 
 [29: (SKSpriteNode) Blending a Sprite with Different Interpretations of Alpha](/tech_notes/spritekit_documentation/029-skspritenode-blending-a-sprite-with-different-interpretations-of-alpha)
 
-> 58 files remaining
+[30: (SKSpriteNode) Lighting a Sprite with Light Nodes](/tech_notes/spritekit_documentation/030-skspritenode-lighting-a-sprite-with-light-nodes)
+
+> 57 files remaining
 
 -------------------------
 
