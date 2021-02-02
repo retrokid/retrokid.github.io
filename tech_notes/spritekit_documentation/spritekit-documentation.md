@@ -64,7 +64,7 @@
 
 [30: (SKSpriteNode) Lighting a Sprite with Light Nodes](/tech_notes/spritekit_documentation/030-skspritenode-lighting-a-sprite-with-light-nodes)
 
-[31: (SKSpriteNode) Applying Shaders to a Sprite](/tech_notes/spritekit_documentation/applying-shaders-to-a-sprite)
+[31: (SKSpriteNode) Applying Shaders to a Sprite](/tech_notes/spritekit_documentation/031-skspritenode-applying-shaders-to-a-sprite)
 
 > 56 files remaining
 
