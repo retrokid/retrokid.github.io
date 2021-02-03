@@ -66,7 +66,7 @@
 
 [31: (SKSpriteNode) Applying Shaders to a Sprite](/tech_notes/spritekit_documentation/031-skspritenode-applying-shaders-to-a-sprite)
 
-[32: (SKSpriteNode)](/tech_notes/spritekit_documentation/032-skspritenode-creating-a-scene-from-a-file)
+[32: (SKSpriteNode) Animating a Sprite by Changing its Texture](/tech_notes/spritekit_documentation/032-skspritenode-creating-a-scene-from-a-file)
 
 > 55 files remaining
 
