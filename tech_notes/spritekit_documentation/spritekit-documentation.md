@@ -68,9 +68,9 @@
 
 [32: (SKSpriteNode) Animating a Sprite by Changing its Texture](/tech_notes/spritekit_documentation/032-skspritenode-creating-a-scene-from-a-file)
 
-[33: (SKShapeNode) Getting Started with Shape Nodes](/tech_notes/spritekit_documentation/033-skspritenode-getting-started-with-shape-nodes)
+[33: (SKShapeNode) Getting Started with Shape Nodes](/tech_notes/spritekit_documentation/033-skshapenode-getting-started-with-shape-nodes)
 
-> 55 files remaining
+> 54 files remaining
 
 -------------------------
 
