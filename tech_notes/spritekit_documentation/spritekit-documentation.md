@@ -72,7 +72,9 @@
 
 [34: (SKShapeNode) Creating a Shape Node from an Array of Points](/tech_notes/spritekit_documentation/034-skshapenode-creating-a-shape-node-from-an-array-of-points)
 
-> 53 files remaining
+[35: (SKShapeNode) Controlling Shape Drawing with Shaders](/tech_notes/spritekit_documentation/035-skshapenode-controlling-shape-drawing-with-shaders)
+
+> 52 files remaining
 
 -------------------------
 
