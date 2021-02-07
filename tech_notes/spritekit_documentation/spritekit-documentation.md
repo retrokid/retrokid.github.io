@@ -74,7 +74,9 @@
 
 [35: (SKShapeNode) Controlling Shape Drawing with Shaders](/tech_notes/spritekit_documentation/035-skshapenode-controlling-shape-drawing-with-shaders)
 
-> 52 files remaining
+[36: (SKEmitterNode) Creating Particle Effects](/tech_notes/spritekit_documentation/036-skemitternode-creating-particle-effects)
+
+> 51 files remaining
 
 -------------------------
 
