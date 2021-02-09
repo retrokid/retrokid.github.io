@@ -78,7 +78,9 @@
 
 [37: (SKEmitterNode) Changing the Location of Particles in Your Scene](/tech_notes/spritekit_documentation/037-skemitternode-changing-the-location-of-particles-in-your-scene)
 
-> 50 files remaining
+[38: (SKEmitterNode) Animating Particle Properties Across Disparate Values](/tech_notes/spritekit_documentation/038-skemitternode-animating-particle-properties-across-disparate-values)
+
+> 49 files remaining
 
 -------------------------
 
