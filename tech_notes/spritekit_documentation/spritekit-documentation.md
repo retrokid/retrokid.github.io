@@ -80,7 +80,9 @@
 
 [38: (SKEmitterNode) Animating Particle Properties Across Disparate Values](/tech_notes/spritekit_documentation/038-skemitternode-animating-particle-properties-across-disparate-values)
 
-> 49 files remaining
+[39: (SKEmitterNode) Getting Started with Particle Shaders](/tech_notes/spritekit_documentation/039-skemitternode-getting-started-with-particle-shaders)
+
+> 48 files remaining
 
 -------------------------
 
