@@ -18,7 +18,7 @@ Particle emitters in SpriteKit are one of the most powerful tools for building v
 
 - Assign a target node whenever the particles should be independent of the emitter node after they are spawned. For example, particles should be independent if the emitter node moves or rotates in the scene.
 
-- Consider removing a particle emitter from the scene when it is not visible onscreen. Add it just before it becomes visible.
+- Consider removing a particle emitter from the scene when it is not visible on screen. Add it just before it becomes visible.
 
 --------------------------
 
