@@ -2,7 +2,7 @@
 
 ------------------------------
 
-Use proven methods to rapidly create and play back performant particle effects.
+Use proven methods to rapidly create and play back efficient particle effects.
 
 ### Overview
 
