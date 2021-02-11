@@ -82,7 +82,9 @@
 
 [39: (SKEmitterNode) Getting Started with Particle Shaders](/tech_notes/spritekit_documentation/039-skemitternode-getting-started-with-particle-shaders)
 
-> 48 files remaining
+[40: (SKEmitterNode) Optimizing Emitter Node Performance](/tech_notes/spritekit_documentation/040-skemitternode-optimizing-emitter-node-performance)
+
+> 47 files remaining
 
 -------------------------
 
