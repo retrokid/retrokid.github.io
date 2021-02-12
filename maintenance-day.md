@@ -1,3 +1,3 @@
 # maintenance day
 
-2020-de
+2020-d
