@@ -84,7 +84,9 @@
 
 [40: (SKEmitterNode) Optimizing Emitter Node Performance](/tech_notes/spritekit_documentation/040-skemitternode-optimizing-emitter-node-performance)
 
-> 47 files remaining
+[41: (SKLabelNode) Adding Text to a Scene](/tech_notes/spritekit_documentation/041-sklabelnode-adding-text-to-a-scene)
+
+> 46 files remaining
 
 -------------------------
 
