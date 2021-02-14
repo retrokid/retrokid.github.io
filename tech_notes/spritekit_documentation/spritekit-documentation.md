@@ -86,7 +86,9 @@
 
 [41: (SKLabelNode) Adding Text to a Scene](/tech_notes/spritekit_documentation/041-sklabelnode-adding-text-to-a-scene)
 
-> 46 files remaining
+[42: (SKVideoNode) Adding a Video to a Scene](/tech_notes/spritekit_documentation/042-skvideonode-adding-a-video-to-a-scene)
+
+> 45 files remaining
 
 -------------------------
 
