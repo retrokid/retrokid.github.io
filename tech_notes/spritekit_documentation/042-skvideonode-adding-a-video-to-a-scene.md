@@ -12,7 +12,7 @@ Be aware that a video node offers only a subset of the features available to the
 
 - A video node is always scaled proportionally.
 
--A video node cannot be colorized. However, it can be added as a child of a `SKEffectNode` to add Core Image filters for color treatments and other effects.
+- A video node cannot be colorized. However, it can be added as a child of a `SKEffectNode` to add Core Image filters for color treatments and other effects.
 
 - A video node always uses an alpha blend mode.
 
