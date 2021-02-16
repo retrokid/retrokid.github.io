@@ -88,7 +88,9 @@
 
 [42: (SKVideoNode) Adding a Video to a Scene](/tech_notes/spritekit_documentation/042-skvideonode-adding-a-video-to-a-scene)
 
-> 45 files remaining
+[43: (SK3DNode) Displaying 3D Content in a SpriteKit Scene](/tech_notes/spritekit_documentation/043-sk3dnode-displaying-3d-content-in-a-spritekit-scene)
+
+> 44 files remaining
 
 -------------------------
 
