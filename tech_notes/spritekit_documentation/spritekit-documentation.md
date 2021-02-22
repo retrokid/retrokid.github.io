@@ -92,7 +92,9 @@
 
 [44: (SKFieldNode) Adding Physics Fields to a Scene](/tech_notes/spritekit_documentation/044-skfieldnode-adding-physics-fields-to-a-scene)
 
-> 43 files remaining
+[45: (SKEffectNode) Applying Special Effects to a Node's Children](/tech_notes/spritekit_documentation/045-skeffectnode-applying-special-effects-to-a-nodes-children)
+
+> 42 files remaining
 
 -------------------------
 
