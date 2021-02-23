@@ -96,7 +96,7 @@
 
 [46: (SKEffectNode) Warping SpriteKit Content By Using an Effect Node](/tech_notes/spritekit_documentation/046-skeffectnode-warping-spritekit-content-by-using-an-effect-node)
 
-> 43 files remaining
+> 41 files remaining
 
 -------------------------
 
