@@ -6,7 +6,7 @@ Distort the child nodes of an effect node by applying a warping effect.
 
 ### Overview
 
-If you want to warp a node that doesn't conform to `SKWarpable`, you can add it as a child to an effect node that is warped. As an implementor of SKWarpable, effect node inherits the `SKWarpGeometry` property that you assign one of the `SKWarpGeometry` types to then warp the effect node's children.
+If you want to warp a node that doesn't conform to `SKWarpable`, you can add it as a child to an effect node that is warped. As an implementer of SKWarpable, effect node inherits the `SKWarpGeometry` property that you assign one of the `SKWarpGeometry` types to then warp the effect node's children.
 
 ### Warp Text By Using an Effect Node
 
