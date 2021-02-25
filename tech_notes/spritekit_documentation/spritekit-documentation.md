@@ -96,7 +96,9 @@
 
 [46: (SKEffectNode) Warping SpriteKit Content By Using an Effect Node](/tech_notes/spritekit_documentation/046-skeffectnode-warping-spritekit-content-by-using-an-effect-node)
 
-> 41 files remaining
+[47: (SKEffectNode) Improving the Performance of Static Content](/tech_notes/spritekit_documentation/047-skeffectnode-improving-the-performance-of-static-content)
+
+> 40 files remaining
 
 -------------------------
 
