@@ -2,5 +2,5 @@
 
 ---------------------
 
-![d3diff.png](./d3diff.png)
+![d3diff.png](d3diff.png)
 
