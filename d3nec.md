@@ -34,7 +34,7 @@
 - belt: sage ribbon
 - legs: cain habbit
 - boots: cain travelers - gr ice climbers
-- weapon: pig sticker
+- weapon: spear lycander - gr pig sticker
 - amulet: flawor of time
 - ring1: avarice band - gr unity
 - ring2: ring of royal - gr oculus
