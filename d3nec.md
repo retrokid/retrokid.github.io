@@ -19,7 +19,7 @@
 
 - rathma full set
 - jesseth full set
-- daytee binding
+- cord of sherma (witching hour)
 - bonds of clena
 - unity
 - krispin
