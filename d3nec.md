@@ -28,7 +28,7 @@
 
 ##### cube
 
-- tragul corroded fangs
+- relina shadowhook
 - tasker and theo
 - justice lantern, ring of royal
 
@@ -38,12 +38,12 @@
 - 2 command golem, bone
 - 3 army of the dead, blight
 - 4 revive, personal
-- m1 grim scythe, cursed
+- m1 bone spike, frost spikes
 - m2 bone spirit, astral
 
 - p swift harvesting
 - p commander of risen dead
-- p eternal torment
+- p overwhelming essence
 - p rathma shield , final service
 
 #### gems, reroll
