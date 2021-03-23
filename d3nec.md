@@ -15,6 +15,45 @@
 - lvl 7 fence vendor
 - rift
 
+### rathma set
+
+- rathma full set
+- jesseth full set
+- daytee binding
+- bonds of clena
+- unity
+- krispin
+- hellfire amulet
+- defiler cuisses - pants (ring of royal)
+
+##### cube
+
+- tragul corroded fangs
+- tasker and theo
+- justice lantern, ring of royal
+
+#### skills
+
+- 1 command skel, frenzy
+- 2 command golem, bone
+- 3 army of the dead, blight
+- 4 revive, personal
+- m1 grim scythe, cursed
+- m2 bone spirit, astral
+
+- p swift harvesting
+- p commander of risen dead
+- p eternal torment
+- p rathma shield , final service
+
+#### gems, reroll
+
+- int, cooldown reduction
+
+- bane of powerful
+- bane of trap
+- molten wildebeest gizzard
+
 ### follower
 
 - Stack 25k mainstat
