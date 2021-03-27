@@ -15,6 +15,12 @@
 - lvl 7 fence vendor
 - rift
 
+### conquests 
+
+t8 - 57 caches
+t10 rift - 2 mins.
+gr 75
+
 ### rathma set
 
 - rathma full set
