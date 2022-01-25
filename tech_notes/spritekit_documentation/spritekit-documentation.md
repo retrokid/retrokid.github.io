@@ -98,7 +98,9 @@
 
 [47: (SKEffectNode) Improving the Performance of Static Content](/tech_notes/spritekit_documentation/047-skeffectnode-improving-the-performance-of-static-content)
 
-> 40 files remaining
+[48: (SKCropNode) Cropping Nodes](/tech_notes/spritekit_documentation/048-skcropnode-cropping-nodes)
+
+> 39 files remaining
 
 -------------------------
 
