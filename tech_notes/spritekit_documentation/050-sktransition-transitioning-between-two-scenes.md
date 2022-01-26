@@ -26,8 +26,8 @@ When organizing your game, it can be helpful to create a diagram that shows all 
 
 ---------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/050-transitioning-between-two-scenes.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/050-sktransition-transitioning-between-two-scenes.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/050-transitioning-between-two-scenes.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/050-sktransition-transitioning-between-two-scenes.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)

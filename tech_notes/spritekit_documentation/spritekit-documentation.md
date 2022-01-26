@@ -104,7 +104,7 @@
 
 [49: Choosing a SpriteKit Scene Renderer](/tech_notes/spritekit_documentation/049-choosing-a-spritekit-scene-renderer)
 
-[50: Transitioning Between Two Scenes](/tech_notes/spritekit_documentation/050-transitioning-between-two-scenes)
+[50: Transitioning Between Two Scenes](/tech_notes/spritekit_documentation/050-sktransition-transitioning-between-two-scenes)
 
 [51: (SKTransition) Configuring Whether Animations Play During the Transition](/tech_notes/spritekit_documentation/051-sktransition-configuring-whether-animations-play-during-the-transition)
 
