@@ -104,7 +104,9 @@
 
 [49: Choosing a SpriteKit Scene Renderer](/tech_notes/spritekit_documentation/049-choosing-a-spritekit-scene-renderer)
 
-> 38 files remaining
+[50: Choosing a SpriteKit Scene Renderer](/tech_notes/spritekit_documentation/050-transitioning-between-two-scenes)
+
+> 37 files remaining
 
 -------------------------
 
