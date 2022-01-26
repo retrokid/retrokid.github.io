@@ -106,7 +106,7 @@
 
 [50: Transitioning Between Two Scenes](/tech_notes/spritekit_documentation/050-transitioning-between-two-scenes)
 
-[51: Configuring Whether Animations Play During the Transition](/tech_notes/spritekit_documentation/051-configuring-whether-animations-play-during-the-transition)
+[51: (SKTransition) Configuring Whether Animations Play During the Transition](/tech_notes/spritekit_documentation/051-sktransition-configuring-whether-animations-play-during-the-transition)
 
 > 36 files remaining
 

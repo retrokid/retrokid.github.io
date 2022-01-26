@@ -10,7 +10,7 @@ Figure 1 illustrates which frames of the incoming and outgoing scenes are displa
 
 ###### Figure 1 Frame progression during transitions
 
-![configuring-whether-animations-play-during-the-transition-001](/images/configuring-whether-animations-play-during-the-transition-001.png)
+![051-sktransition-configuring-whether-animations-play-during-the-transition-001](/images/051-sktransition-configuring-whether-animations-play-during-the-transition-001.png)
 
 For example, consider the code again in . Because the button is going to run an action, this code expects the outgoing scene to be animated. But perhaps the incoming scene should not animate its content until the transition completes. Adding the code in Listing 1 has the desired effect.
 
