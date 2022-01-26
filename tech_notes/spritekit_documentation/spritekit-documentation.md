@@ -112,7 +112,9 @@
 
 [53: (SKView) Requesting the OpenGL Renderer](/tech_notes/spritekit_documentation/053-skview-requesting-the-opengl-renderer)
 
-> 34 files remaining
+[54: (WKInterfaceSKScene) Configuring a WatchKit Scene in a Storyboard](/tech_notes/spritekit_documentation/054-wkinterfaceskscene-configuring-a-watchkit-scene-in-a-storyboard)
+
+> 33 files remaining
 
 -------------------------
 
