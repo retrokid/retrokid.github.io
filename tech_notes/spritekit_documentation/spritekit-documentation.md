@@ -100,7 +100,11 @@
 
 [48: (SKCropNode) Cropping Nodes](/tech_notes/spritekit_documentation/048-skcropnode-cropping-nodes)
 
-> 39 files remaining
+## Scene Renderers
+
+[49: Choosing a SpriteKit Scene Renderer](/tech_notes/spritekit_documentation/049-choosing-a-spritekit-scene-renderer)
+
+> 38 files remaining
 
 -------------------------
 
