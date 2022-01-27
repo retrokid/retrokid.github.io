@@ -114,6 +114,10 @@
 
 [54: (WKInterfaceSKScene) Configuring a WatchKit Scene in a Storyboard](/tech_notes/spritekit_documentation/054-wkinterfaceskscene-configuring-a-watchkit-scene-in-a-storyboard)
 
+## Textures
+
+## Animation
+
 > 33 files remaining
 
 -------------------------
