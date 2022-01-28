@@ -1,4 +1,4 @@
-Loading and Using Textures
+# Loading and Using Textures
 
 ------------------------
 
