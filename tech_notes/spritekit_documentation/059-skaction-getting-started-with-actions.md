@@ -49,8 +49,8 @@ Because actions can be chained and can wrap custom code, it's possible to drive 
 
 --------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/059-getting-started-with-actions.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/059-skaction-getting-started-with-actions.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/059-getting-started-with-actions.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/059-skaction-getting-started-with-actions.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)

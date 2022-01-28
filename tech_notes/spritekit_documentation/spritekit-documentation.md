@@ -126,7 +126,7 @@
 
 ## Animation
 
-[59: Getting Started with Actions](/tech_notes/spritekit_documentation/059-getting-started-with-actions)
+[59: (SKAction) Getting Started with Actions](/tech_notes/spritekit_documentation/059-skaction-getting-started-with-actions)
 
 > 28 files remaining
 
