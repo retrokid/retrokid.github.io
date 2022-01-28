@@ -130,7 +130,9 @@
 
 [60: (SKAction) Working with Inverse Kinematics](/tech_notes/spritekit_documentation/060-skaction-working-with-inverse-kinematics)
 
-> 26 files remaining
+[61: (SKAction) Configuring Action Timing](/tech_notes/spritekit_documentation/061-skaction-configuring-action-timing)
+
+> 25 files remaining
 
 -------------------------
 
