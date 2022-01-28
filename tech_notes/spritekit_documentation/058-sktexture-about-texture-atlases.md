@@ -11,7 +11,7 @@ In most cases, a SpriteKit texture atlas is created automatically by the Xcode b
 The benefits are:
 
 1. Minimized bundle size.
-2. Maximized runtime perfomance when rendering more than one of the atlas's textures at the same time, because SpriteKit is able to effectively render them at the same time.
+2. Maximized runtime performance when rendering more than one of the atlas's textures at the same time, because SpriteKit is able to effectively render them at the same time.
 
 ### Creating a Texture Atlas
 
