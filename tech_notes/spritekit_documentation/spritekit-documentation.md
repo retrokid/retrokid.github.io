@@ -132,7 +132,9 @@
 
 [61: (SKAction) Configuring Action Timing](/tech_notes/spritekit_documentation/061-skaction-configuring-action-timing)
 
-> 25 files remaining
+[62: (SKAction) Controlling Actions Precisely by Using Names](/tech_notes/spritekit_documentation/062-skaction-controlling-actions-precisely-by-using-names)
+
+> 24 files remaining
 
 -------------------------
 
