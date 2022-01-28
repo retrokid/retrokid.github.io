@@ -128,7 +128,9 @@
 
 [59: (SKAction) Getting Started with Actions](/tech_notes/spritekit_documentation/059-skaction-getting-started-with-actions)
 
-> 28 files remaining
+[60: (SKAction) Working with Inverse Kinematics](/tech_notes/spritekit_documentation/060-skaction-working-with-inverse-kinematics)
+
+> 26 files remaining
 
 -------------------------
 
