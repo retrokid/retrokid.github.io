@@ -120,7 +120,7 @@
 
 [56: (SKTexture) Loading and Using Textures](/tech_notes/spritekit_documentation/056-sktexture-loading-and-using-textures)
 
-[57: (SKTexture) Loading and Using Textures](/tech_notes/spritekit_documentation/057-sktexture-preloading-textures-into-memory)
+[57: (SKTexture) Preloading Textures into Memory](/tech_notes/spritekit_documentation/057-sktexture-preloading-textures-into-memory)
 
 ## Animation
 
