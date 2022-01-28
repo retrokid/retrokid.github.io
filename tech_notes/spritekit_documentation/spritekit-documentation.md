@@ -118,9 +118,11 @@
 
 [55: Maximizing Texture Performance](/tech_notes/spritekit_documentation/055-maximizing-texture-performance)
 
+[56: (SKTexture) Loading and Using Textures](/tech_notes/spritekit_documentation/056-sktexture-loading-and-using-textures)
+
 ## Animation
 
-> 33 files remaining
+> 31 files remaining
 
 -------------------------
 
