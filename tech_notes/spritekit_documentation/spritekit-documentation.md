@@ -122,9 +122,11 @@
 
 [57: (SKTexture) Preloading Textures into Memory](/tech_notes/spritekit_documentation/057-sktexture-preloading-textures-into-memory)
 
+[58: (SKTexture) About Texture Atlases](/tech_notes/spritekit_documentation/058-sktexture-about-texture-atlases)
+
 ## Animation
 
-> 30 files remaining
+> 29 files remaining
 
 -------------------------
 
