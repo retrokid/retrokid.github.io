@@ -116,6 +116,8 @@
 
 ## Textures
 
+[55: Maximizing Texture Performance](/tech_notes/spritekit_documentation/055-maximizing-texture-performance)
+
 ## Animation
 
 > 33 files remaining
