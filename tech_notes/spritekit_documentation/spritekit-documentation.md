@@ -120,9 +120,11 @@
 
 [56: (SKTexture) Loading and Using Textures](/tech_notes/spritekit_documentation/056-sktexture-loading-and-using-textures)
 
+[57: (SKTexture) Loading and Using Textures](/tech_notes/spritekit_documentation/057-sktexture-preloading-textures-into-memory)
+
 ## Animation
 
-> 31 files remaining
+> 30 files remaining
 
 -------------------------
 
