@@ -168,6 +168,8 @@
 
 [76: (SKFieldNode) Adding Physics Fields to a Scene](/tech_notes/spritekit_documentation/076-skfieldnode-adding-physics-fields-to-a-scene)
 
+[77: (SKPhysicsJoint) Connecting Bodies with Joints](/tech_notes/spritekit_documentation/077-skphysicsjoint-connecting-bodies-with-joints)
+
 > 10 files remaining
 
 -------------------------
