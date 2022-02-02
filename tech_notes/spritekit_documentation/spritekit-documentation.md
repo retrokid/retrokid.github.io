@@ -164,6 +164,8 @@
 
 [74: (SKPhysicsBody) Making Physics Bodies Move](/tech_notes/spritekit_documentation/074-skphysicsbody-making-physics-bodies-move)
 
+[75: (SKPhysicsBody) Pinning and Rotating Physics Bodies](/tech_notes/spritekit_documentation/075-skphysicsbody-pinning-and-rotating-physics-bodies)
+
 > 10 files remaining
 
 -------------------------
