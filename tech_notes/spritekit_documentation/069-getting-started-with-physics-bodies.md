@@ -85,6 +85,8 @@ scene.addChild(ground)
 
 After running for a few moments, the above code creates a scene that looks like the following illustration—the sprite node has come to rest in one of the valleys of the curvy ground line.
 
+![069-getting-started-with-physics-bodies-002](/images/069-getting-started-with-physics-bodies-002.png)
+
 --------------------------
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/069-getting-started-with-physics-bodies.md)
