@@ -8,7 +8,7 @@ The primary use for an `SKKeyframeSequence` object is to animate properties on p
 
 ###### Table 1 Emitter properties for keyframe sequences
 
-| `SKEmitterNode property`           | Value class                                   |
+| `SKEmitterNode` property           | Value class                                   |
 |------------------------------------|-----------------------------------------------|
 | `particleColorSequence`            | SKColor                                       |
 | `particleColorBlendFactorSequence` | `NSNumber` containing a floating point value. |
