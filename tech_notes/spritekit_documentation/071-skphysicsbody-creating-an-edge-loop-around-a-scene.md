@@ -18,8 +18,8 @@ func createSceneContents() {
 
 --------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/002-skscene-creating-a-scene-from-a-file.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/071-skphysicsbody-creating-an-edge-loop-around-a-scene.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/002-skscene-creating-a-scene-from-a-file.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/071-skphysicsbody-creating-an-edge-loop-around-a-scene.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)
