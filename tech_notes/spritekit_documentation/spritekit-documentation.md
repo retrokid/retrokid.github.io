@@ -178,6 +178,10 @@
 
 [80: (SKTileGroup) Creating Tile Groups Programmatically](/tech_notes/spritekit_documentation/080-sktilegroup-creating-tile-groups-programmatically)
 
+## Shaders
+
+[81: (SKShader) Creating a Custom Fragment Shader](/tech_notes/spritekit_documentation/081-skshader-creating-a-custom-fragment-shader)
+
 > 10 files remaining
 
 -------------------------
