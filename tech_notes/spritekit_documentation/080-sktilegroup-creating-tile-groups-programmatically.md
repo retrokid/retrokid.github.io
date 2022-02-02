@@ -8,11 +8,11 @@ Paint tiles on a map by putting tile definitions in a group that you create in c
 
 To paint tiles on a map using a tile group, you call `fill(with:)` on the group. The fill behaviors you use depend on the type of group you make:
 
-|Group type|Fill behavior|
-|----------|-------------|
-|Single tile|Repeats the single center tile.|
-|Multiple tiles without adjacency rules|Chooses randomly among the multiple center tiles, abiding by the placement weights you choose.|
-|Multiple tiles with adjacency rules|Repeats the center tile and borders all of its edges using the peripheral adjacency tiles you define.|
+|Group type                            |Fill behavior                                                                                        |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------|
+|Single tile                           |Repeats the single center tile.                                                                      |
+|Multiple tiles without adjacency rules|Chooses randomly among the multiple center tiles, abiding by the placement weights you choose.       |
+|Multiple tiles with adjacency rules   |Repeats the center tile and borders all of its edges using the peripheral adjacency tiles you define.|
 
 ### Create a Tile Group with a Single Tile
 
