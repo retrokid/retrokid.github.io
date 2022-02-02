@@ -41,7 +41,7 @@ let warpGeometryGrid = SKWarpGeometryGrid(columns: 2,
 
 A geometry grid warps the geometry defined by the source positions (left illustration) into a new geometry defined by the destination positions (right illustration).
 
-![083-skwarpgeometrygrid-animate-the-warping-of-a-sprite-001](083-skwarpgeometrygrid-animate-the-warping-of-a-sprite-001.png)
+![083-skwarpgeometrygrid-animate-the-warping-of-a-sprite-001](/images/083-skwarpgeometrygrid-animate-the-warping-of-a-sprite-001.png)
 
 Several options are available for applying this geometry to a node that conforms to `SKWarpable`, such as an `SKSpriteNode`.
 
