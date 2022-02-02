@@ -14,7 +14,7 @@ There are three kinds of physics bodies:
 
 SpriteKit provides a few standard shapes—those based on arbitrary paths and those generated from the alpha channel of a texture. The following figure shows the shapes available:
 
-![069-getting-started-with-physics-bodies-001](/images/069-getting-started-with-physics-bodies-001.png)
+![069-getting-started-with-physics-bodies-001](/images/069-skphysicsbody-getting-started-with-physics-bodies-001.png)
 
 The following code shows how to generate the four physics bodies called out above:
 
@@ -85,12 +85,12 @@ scene.addChild(ground)
 
 After running for a few moments, the above code creates a scene that looks like the following illustration—the sprite node has come to rest in one of the valleys of the curvy ground line.
 
-![069-getting-started-with-physics-bodies-002](/images/069-getting-started-with-physics-bodies-002.png)
+![069-getting-started-with-physics-bodies-002](/images/069-skphysicsbody-getting-started-with-physics-bodies-002.png)
 
 --------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/069-getting-started-with-physics-bodies.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/069-skphysicsbody-getting-started-with-physics-bodies.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/069-getting-started-with-physics-bodies.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/069-skphysicsbody-getting-started-with-physics-bodies.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)

@@ -150,11 +150,13 @@
 
 [67: Getting Started with Physics](/tech_notes/spritekit_documentation/067-getting-started-with-physics)
 
-[68: (SKPhysicsWorld) Searching the World for Physics Bodies](/tech_notes/spritekit_documentation/068-searching-the-world-for-physics-bodies)
+[68: (SKPhysicsWorld) Searching the World for Physics Bodies](/tech_notes/spritekit_documentation/068-skphysicsworld-searching-the-world-for-physics-bodies)
 
-[69: (SKPhysicsBody) Getting Started with Physics Bodies](/tech_notes/spritekit_documentation/069-getting-started-with-physics-bodies)
+[69: (SKPhysicsBody) Getting Started with Physics Bodies](/tech_notes/spritekit_documentation/069-skphysicsbody-getting-started-with-physics-bodies)
 
-> 14 files remaining
+[70: (SKPhysicsBody) Shaping a Physics Body to Match a Node's Graphics](/tech_notes/spritekit_documentation/070-skphysicsbody-shaping-a-physics-body-to-match-a-node-s-graphics)
+
+> 13 files remaining
 
 -------------------------
 

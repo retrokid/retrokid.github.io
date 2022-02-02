@@ -46,8 +46,8 @@ Sometimes you can’t make a simple determination based on the closest physics b
 
 --------------------------
 
-[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/068-searching-the-world-for-physics-bodies.md)
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/068-skphysicsworld-searching-the-world-for-physics-bodies.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/068-searching-the-world-for-physics-bodies.pdf)
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/068-skphysicsworld-searching-the-world-for-physics-bodies.pdf)
 
 [back to SpriteKit documentation](./spritekit-documentation)
