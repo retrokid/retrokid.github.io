@@ -138,11 +138,13 @@
 
 ## Constraints
 
+[64: (SKConstraints) Creating Position Constraints](/tech_notes/spritekit_documentation/064-skconstraints-creating-position-constraints)
+
 ## Mathematical Tolls
 
 ## Physics Simulation
 
-> 21 files remaining
+> 19 files remaining
 
 -------------------------
 
