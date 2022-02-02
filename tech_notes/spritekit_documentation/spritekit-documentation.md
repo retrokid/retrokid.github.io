@@ -158,6 +158,8 @@
 
 [71: (SKPhysicsBody) Creating an Edge Loop Around a Scene](/tech_notes/spritekit_documentation/071-skphysicsbody-creating-an-edge-loop-around-a-scene)
 
+[72: (SKPhysicsBody) Configuring a Physics Body](/tech_notes/spritekit_documentation/072-skphysicsbody-configuring-a-physics-body)
+
 > 10 files remaining
 
 -------------------------
