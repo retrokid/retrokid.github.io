@@ -46,3 +46,11 @@ let move = SKAction.moveBy(x:0, y: 200,
                            duration: 1)
 staticNode.run(move)
 ```
+
+--------------------------
+
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/spritekit_documentation/079-skphysicsjoint-getting-started-with-spring-joints.md)
+
+[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/spritekit_documentation/079-skphysicsjoint-getting-started-with-spring-joints.pdf)
+
+[back to SpriteKit documentation](./spritekit-documentation)
