@@ -150,7 +150,7 @@
 
 [67: Getting Started with Physics](/tech_notes/spritekit_documentation/067-getting-started-with-physics)
 
-[68: (SKPhysicsWorld) Searching the World for Physics Bodies](/tech_notes/spritekit_documentation/067-getting-started-with-physics)
+[68: (SKPhysicsWorld) Searching the World for Physics Bodies](/tech_notes/spritekit_documentation/068-searching-the-world-for-physics-bodies)
 
 > 19 files remaining
 
