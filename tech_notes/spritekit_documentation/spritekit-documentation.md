@@ -172,6 +172,9 @@
 
 [78: (SKPhysicsJoint) Disconnecting Bodies from Joints](/tech_notes/spritekit_documentation/078-skphysicsjoint-connecting-bodies-with-joints)
 
+[79: (SKPhysicsJoint) Getting Started with Spring Joints](/tech_notes/spritekit_documentation/079-skphysicsjoint-getting-started-with-spring-joints)
+
+
 > 10 files remaining
 
 -------------------------
