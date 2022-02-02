@@ -146,7 +146,7 @@
 
 [66: (SKKeyframeSequence) Using Keyframe Sequence to effect Custom Interpolation](/tech_notes/spritekit_documentation/066-SKKeyframeSequence-using-keyframe-sequence-to-effect-custom-interpolation)
 
-## Physics Simulation0
+## Physics Simulation
 
 > 19 files remaining
 
