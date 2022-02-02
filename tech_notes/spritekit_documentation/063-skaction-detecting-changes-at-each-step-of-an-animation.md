@@ -8,7 +8,7 @@ Get notified of a property change on your node subclass and retrieve the amount 
 
 Generally, actions do not call public methods on nodes. For example, if you want to subclass `SKNode` to respond to a `move(to:duration:)` action, you might consider overriding its `position` property to add a didSet observer.
 
-```
+```swift
 class MovingNode: SKSpriteNode {
     override var position: CGPoint {
         didSet {
@@ -24,7 +24,7 @@ In this case, the solution is to use `SKSceneDelegate` and compare the node's po
 
 The following code demonstrates an example of this strategy:
 
-```
+```swift
 let node = SKNode()
 var nodePosition = CGPoint()
      
