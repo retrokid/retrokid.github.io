@@ -37,7 +37,8 @@ let blueTexture = SKTexture(imageNamed: "BLUE.png")
 let blueDefinition = SKTileDefinition(texture: blueTexture)
 blueDefinition.placementWeight = 1
  
-let redBlueRule = SKTileGroupRule(adjacency: .adjacencyAll, tileDefinitions: [redDefinition, blueDefinition])
+let redBlueRule = SKTileGroupRule(adjacency: .adjacencyAll, 
+								tileDefinitions: [redDefinition, blueDefinition])
 let group = SKTileGroup(rules: [redBlueRule])
 ```
 
