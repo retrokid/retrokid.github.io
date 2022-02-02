@@ -152,7 +152,9 @@
 
 [68: (SKPhysicsWorld) Searching the World for Physics Bodies](/tech_notes/spritekit_documentation/068-searching-the-world-for-physics-bodies)
 
-> 19 files remaining
+[69: (SKPhysicsBody) Getting Started with Physics Bodies](/tech_notes/spritekit_documentation/069-getting-started-with-physics-bodies)
+
+> 14 files remaining
 
 -------------------------
 
