@@ -182,6 +182,8 @@
 
 [81: (SKShader) Creating a Custom Fragment Shader](/tech_notes/spritekit_documentation/081-skshader-creating-a-custom-fragment-shader)
 
+[82: (SKShader) Executing Shaders in Metal and OpenGL](/tech_notes/spritekit_documentation/082-skshader-executing-shaders-in-metal-and-opengl)
+
 > 10 files remaining
 
 -------------------------
