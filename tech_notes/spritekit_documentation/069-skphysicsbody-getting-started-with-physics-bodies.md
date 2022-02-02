@@ -1,5 +1,7 @@
 # Getting Started with Physics Bodies
 
+---------------------
+
 Create and assign a physics body to enable physics.
 
 ### Overview

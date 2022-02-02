@@ -156,7 +156,9 @@
 
 [70: (SKPhysicsBody) Shaping a Physics Body to Match a Node's Graphics](/tech_notes/spritekit_documentation/070-skphysicsbody-shaping-a-physics-body-to-match-a-node-s-graphics)
 
-> 13 files remaining
+[71: (SKPhysicsBody) Creating an Edge Loop Around a Scene](/tech_notes/spritekit_documentation/071-skphysicsbody-creating-an-edge-loop-around-a-scene)
+
+> 10 files remaining
 
 -------------------------
 

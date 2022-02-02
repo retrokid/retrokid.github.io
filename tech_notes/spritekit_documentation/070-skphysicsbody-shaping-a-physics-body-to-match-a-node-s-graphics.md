@@ -1,5 +1,7 @@
 # Shaping a Physics Body to Match a Node's Graphics
 
+----------------------------
+
 Shape a physics body to your graphics for the right blend of collision accuracy and performance.
 
 ### Overview
