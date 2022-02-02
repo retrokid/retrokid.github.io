@@ -134,6 +134,8 @@
 
 [62: (SKAction) Controlling Actions Precisely by Using Names](/tech_notes/spritekit_documentation/062-skaction-controlling-actions-precisely-by-using-names)
 
+[63: (SKAction) Detecting Changes at Each Step of an Animation](/tech_notes/spritekit_documentation/063-skaction-detecting-changes-at-each-step-of-an-animation)
+
 ## Constraints
 
 ## Mathematical Tolls
