@@ -170,6 +170,8 @@
 
 [77: (SKPhysicsJoint) Connecting Bodies with Joints](/tech_notes/spritekit_documentation/077-skphysicsjoint-connecting-bodies-with-joints)
 
+[78: (SKPhysicsJoint) Disconnecting Bodies from Joints](/tech_notes/spritekit_documentation/078-skphysicsjoint-connecting-bodies-with-joints)
+
 > 10 files remaining
 
 -------------------------
