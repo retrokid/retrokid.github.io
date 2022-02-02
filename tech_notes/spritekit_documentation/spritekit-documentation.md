@@ -142,6 +142,8 @@
 
 [65: (SKConstraints) Creating a Look-At Constraint](/tech_notes/spritekit_documentation/065-skconstraints-creating-a-look-at-constraint)
 
+[66: (SKKeyframeSequence) Using Keyframe Sequence to effect Custom Interpolation](/tech_notes/spritekit_documentation/066-SKKeyframeSequence-using-keyframe-sequence-to-effect-custom-interpolation)
+
 ## Mathematical Tolls
 
 ## Physics Simulation0
