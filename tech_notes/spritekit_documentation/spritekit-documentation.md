@@ -162,6 +162,8 @@
 
 [73: (SKPhysicsBody) About Collisions and Contacts](/tech_notes/spritekit_documentation/073-skphysicsbody-about-collisions-and-contacts)
 
+[74: (SKPhysicsBody) Making Physics Bodies Move](/tech_notes/spritekit_documentation/074-skphysicsbody-making-physics-bodies-move)
+
 > 10 files remaining
 
 -------------------------
