@@ -160,6 +160,8 @@
 
 [72: (SKPhysicsBody) Configuring a Physics Body](/tech_notes/spritekit_documentation/072-skphysicsbody-configuring-a-physics-body)
 
+[73: (SKPhysicsBody) About Collisions and Contacts](/tech_notes/spritekit_documentation/073-skphysicsbody-about-collisions-and-contacts)
+
 > 10 files remaining
 
 -------------------------

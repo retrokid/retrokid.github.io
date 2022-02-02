@@ -1,5 +1,7 @@
 # Configuring a Physics Body
 
+------------------------------
+
 Move a physics body, and make it collide with other objects, by setting its physical properties once or changing them dynamically.
 
 ### Overview
