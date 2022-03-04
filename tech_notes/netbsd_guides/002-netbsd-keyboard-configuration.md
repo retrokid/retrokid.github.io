@@ -13,7 +13,7 @@ This part requires you to know basic usage of **vi** program. If you don't know 
 **vi** basic usage cheatsheet:
 
 |Command|     Meaning     |
-|-------|-----------------|
+|------:|-----------------|
 |h      |move cursor left |
 |j      |move cursor down |
 |k      |move cursor up   |
