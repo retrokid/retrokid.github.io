@@ -14,4 +14,6 @@
 
 [Zip & Split](/tech_notes/zip-split)
 
+[Vi Cheatsheet](/tech_notes/vi-cheatsheet.md)
+
 ------------------------------
