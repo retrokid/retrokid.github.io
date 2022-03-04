@@ -14,9 +14,9 @@ This part requires you to know basic usage of **vi** program. If you don't know 
 
 |Command|     Meaning     |
 |------:|-----------------|
-|h=     |move cursor left |
-|j=     |move cursor down |
-|k=     |move cursor up   |
+|h =     |move cursor left |
+|j =     |move cursor down |
+|k =     |move cursor up   |
 |l      |move cursor right|
 |a      |add after char   |
 |i      |add before char  |
