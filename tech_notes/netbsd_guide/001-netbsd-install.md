@@ -159,7 +159,7 @@ You've successfully installed a minimal NetBSD 32bit operating system.
 
 [download this page as .pdf](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/netbsd_guide/001-netbsd-install.pdf)
 
-[back to NetBSD Guide](./netbsd-guide)
+[back to NetBSD Guides](./netbsd-guides)
 
 ------------------------------
 
