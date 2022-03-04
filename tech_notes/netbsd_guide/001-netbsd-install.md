@@ -153,8 +153,6 @@ Congratulations,
 
 You've successfully installed a minimal NetBSD 32bit operating system.
 
-###### Copyright © Efe Ertuğrul. Free for personal use.
-
 ------------------------------
 
 [download this page as .md]()
@@ -162,3 +160,7 @@ You've successfully installed a minimal NetBSD 32bit operating system.
 [download this page as .pdf]()
 
 [back to NetBSD Guide](./netbsd-guide)
+
+------------------------------
+
+###### Copyright © Efe Ertuğrul. Free for personal use.
