@@ -21,3 +21,7 @@
 |:wq      |save and quit    |
 |:w!      |force save       |
 |:q!      |force quit       |
+
+------------------------
+
+[download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/vi-cheatsheet.md)
