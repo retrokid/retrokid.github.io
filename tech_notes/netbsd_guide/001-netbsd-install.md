@@ -1,4 +1,4 @@
-# NetBSD Installation
+# NetBSD Minimal Installation
 
 --------------------------
 
