@@ -2,7 +2,7 @@
 
 ------------------------------
 
-[NetBSD Guides/](/tech_notes/netbsd_guide/netbsd-guides)
+[NetBSD Guides/](/tech_notes/netbsd_guides/netbsd-guides)
 
 [SpriteKit Documentation/](/tech_notes/spritekit_documentation/spritekit-documentation)
 
