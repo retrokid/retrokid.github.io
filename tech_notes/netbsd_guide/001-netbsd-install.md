@@ -1,4 +1,8 @@
-# Summary
+# NetBSD Installation
+
+--------------------------
+
+### Summary
 
 These are the step by step instructions of installing a minimal NetBSD on a virtual machine. I'm using NetBSD as a mini server. So this installation has no graphical packages. I'm also using 32bit version. A bit slower but less demanding. 
 
@@ -17,7 +21,7 @@ no soundcard
 
 -----------------------------
 
-# Instructions
+### Instructions
 
 1- Boot your vm from cd image and wait until you see this screen. Press enter and continue next screen.
 
