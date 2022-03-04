@@ -53,7 +53,7 @@ This part requires you to know basic usage of **vi** program. If you don't know 
 
 ![002-netbsd-keyboard-configuration-004.png](/images/002-netbsd-keyboard-configuration-004.png)
 
-5- I'm also going to edit keymaps because my current keyboard doesn't have a less, greater key. (These characters: "<>|"). This requires me to go to **`/usr/share/wscons/keymaps/`** folder. And create a new file named **`overlay.tr`** with **`vi`** editor. (You can use anything as file name but do not forget it. We're gonna need it)
+5- I'm also going to edit keymaps because my current keyboard doesn't have a less, greater key.(These characters: "<>|").This requires me to go to **`/usr/share/wscons/keymaps/`** folder.And create a new file named **`overlay.tr`** with **`vi`** editor.(You can use anything as file name but do not forget it. We're gonna need it)
 
 ![002-netbsd-keyboard-configuration-005.png](/images/002-netbsd-keyboard-configuration-005.png)
 
