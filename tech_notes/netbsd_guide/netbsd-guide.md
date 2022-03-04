@@ -6,4 +6,4 @@
 
 ----------------------
 
-###### Copyright © Efe Ertuğrul. Free for personal use.
+###### COPYRIGHT © 2022 EFE ERTUGRUL. ALL RIGHTS RESERVED. FREE FOR PERSONAL USE.

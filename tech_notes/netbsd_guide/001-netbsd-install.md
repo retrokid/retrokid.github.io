@@ -163,4 +163,4 @@ You've successfully installed a minimal NetBSD 32bit operating system.
 
 ------------------------------
 
-###### Copyright © Efe Ertuğrul. Free for personal use.
+###### COPYRIGHT © 2022 EFE ERTUGRUL. ALL RIGHTS RESERVED. FREE FOR PERSONAL USE.
