@@ -2,7 +2,7 @@
 
 ----------------------
 
-[01: NetBSD minimal installation](/tech_notes/netbsd_guide/001-001-netbsd-install)
+[01: NetBSD minimal installation](/tech_notes/netbsd_guide/001-netbsd-install)
 
 ----------------------
 
