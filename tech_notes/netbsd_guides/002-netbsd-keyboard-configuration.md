@@ -57,7 +57,7 @@ This part requires you to know basic usage of **vi** program. If you don't know 
 
 ![002-netbsd-keyboard-configuration-005.png](/images/002-netbsd-keyboard-configuration-005.png)
 
-6- What i'm going to do in this file that i'm going to set some unusable turkish character buttons to bar '|' less '<' and greater '>' characters. For example there is a 'ş' character in my keyboard. It's unusable in console but i might need '|' character so i've added **`keycode 39 = bar`** line in this file to set 'ş' button to bar '|' character. I've also set 'ö' and 'ç' buttons to use less '<' and greater '>'. (You can check your full keymap with this command: **`wsconsctl map | less`**)
+6- What i'm going to do in this file that i'm going to set some unusable turkish character buttons to bar `|` less `<` and greater `>` characters. For example there is a `ş` character in my keyboard. It's unusable in console but i might need `|` character so i've added **`keycode 39 = bar`** line in this file to set `ş` button to bar `|` character. I've also set `ö` and `ç` buttons to use less `<` and greater `>`. (You can check your full keymap with this command: **`wsconsctl map | less`**)
 
 ![002-netbsd-keyboard-configuration-006.png](/images/002-netbsd-keyboard-configuration-006.png)
 
