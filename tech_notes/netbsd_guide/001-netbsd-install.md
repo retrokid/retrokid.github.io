@@ -14,10 +14,10 @@ You can download NetBSD 9.2 CD image from this site:
 
 The VM has this configuration:
 
-1 core cpu
-1024mb ram
-8gb ide hdd
-no soundcard
+- 1 core cpu
+- 1024mb ram
+- 8gb ide hdd
+- no soundcard
 
 -----------------------------
 
@@ -157,7 +157,7 @@ You've successfully installed a minimal NetBSD 32bit operating system.
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/netbsd_guide/001-netbsd-install.md)
 
-[download this page as .pdf]()
+[download this page as .pdf](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/netbsd_guide/001-netbsd-install.pdf)
 
 [back to NetBSD Guide](./netbsd-guide)
 
