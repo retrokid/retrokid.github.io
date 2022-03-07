@@ -67,4 +67,3 @@ protocol PlayerControllerDelegate
 
 [download this page as .md](https://raw.githubusercontent.com/retrokid/retrokid.github.io/master/tech_notes/delegate-protocol.md)
 
-[download this page as .pdf](https://github.com/retrokid/retrokid.github.io/raw/master/tech_notes/delegate-protocol.pdf)
