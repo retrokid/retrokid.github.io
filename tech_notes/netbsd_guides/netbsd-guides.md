@@ -8,7 +8,7 @@
 
 [03: NetBSD Network Configuration](/tech_notes/netbsd_guides/003-netbsd-network-configuration)
 
-[04: NetBSD Network Configuration](/tech_notes/netbsd_guides/004-netbsd-package-manager)
+[04: NetBSD Package Manager Configuration](/tech_notes/netbsd_guides/004-netbsd-package-manager)
 
 ----------------------
 

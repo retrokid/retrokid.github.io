@@ -1,4 +1,4 @@
-# NetBSD package manager
+# NetBSD package manager configuration
 
 ----------------------
 
