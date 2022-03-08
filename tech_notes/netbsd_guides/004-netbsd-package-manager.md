@@ -2,7 +2,7 @@
 
 ----------------------
 
-# Summary
+### Summary
 
 In this part i'm going to enable built-in package manager and install pkgin. Pkgin is the recommended package manager for NetBSD.
 For more information see: [PKGIN Website](https://pkgin.net/)
@@ -11,7 +11,7 @@ This part requires active internet connection.
 
 ----------------------
 
-# Instructions
+### Instructions
 
 1- Start and login to your system.
 

@@ -2,7 +2,7 @@
 
 -------------------------
 
-# Summary
+### Summary
 
 In this part i'll show you how to enable NetBSD dhcp daemon for internet connection. Most of the time there is already a dhcp service in your network (your router, virtualbox). So there is no need for manual ip configuration. 
 
@@ -10,7 +10,7 @@ If you need to set manual ip configuration for your network or enabling dhcp dae
 
 --------------------
 
-# Instructions
+### Instructions
 
 1- Start and login to your system.
 

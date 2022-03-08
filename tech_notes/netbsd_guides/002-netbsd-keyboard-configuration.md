@@ -2,7 +2,7 @@
 
 ----------------------
 
-# Summary
+### Summary
 
 In this part i'm going to configure my non-us keyboard by changing or adding some system configuration files for keyboard. **US** keyboard users can skip this part.
 
@@ -35,7 +35,7 @@ This part requires you to know basic usage of **vi** program. If you don't know 
 
 ----------------------------
 
-# Instructions
+### Instructions
 
 1- Start your system and login.
 
