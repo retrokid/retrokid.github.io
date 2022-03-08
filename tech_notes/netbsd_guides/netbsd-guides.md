@@ -6,6 +6,8 @@
 
 [02: NetBSD Keyboard Configuration](/tech_notes/netbsd_guides/002-netbsd-keyboard-configuration)
 
+[03: NetBSD Network Configuration](/tech_notes/netbsd_guides/003-netbsd-network-configuration)
+
 ----------------------
 
 ###### COPYRIGHT © 2022 EFE ERTUGRUL. ALL RIGHTS RESERVED. FREE FOR PERSONAL USE.
