@@ -8,6 +8,8 @@
 
 [03: NetBSD Network Configuration](/tech_notes/netbsd_guides/003-netbsd-network-configuration)
 
+[04: NetBSD Network Configuration](/tech_notes/netbsd_guides/004-netbsd-package-manager)
+
 ----------------------
 
 ###### COPYRIGHT © 2022 EFE ERTUGRUL. ALL RIGHTS RESERVED. FREE FOR PERSONAL USE.
