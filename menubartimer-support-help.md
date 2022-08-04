@@ -24,7 +24,7 @@
 
 ![menu bar timer support image5](/images/menu_bar_timer/menubartimer-support-img05.png)
 
-6- To reset the timer click on the app to see the menu. And click Reset or press command+r while the menu is open.
+6- To reset the timer click on the app to see the menu. And click Reset or press command+r while the menu is open. 
 
 ![menu bar timer support image6](/images/menu_bar_timer/menubartimer-support-img06.png)
 
@@ -36,7 +36,7 @@
 
 ![menu bar timer support image8](/images/menu_bar_timer/menubartimer-support-img08.png)
 
-9- At v2.2 there is a Mode button.
+9- In v2.2 there is a Mode button.
 
 ![menu bar timer support image9](/images/menu_bar_timer/menubartimer-support-img09.png)
 
