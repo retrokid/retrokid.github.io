@@ -72,7 +72,7 @@
 
 18- Blinking will automatically stop after blinked 200 times.
 
-__(Coming Soon...):__ In v2.4.4 there is a __"Restart"__ button in the menu. This button stops, resets and starts again currently active timer with only one click. So you don't have to click 3 buttons seperately.
+19- In v2.4.4 there is a __"Restart"__ button in the menu. This button stops, resets and starts again currently active timer with only one click. So you don't have to click 3 buttons seperately.
 
 ![menu bar timer support image v2.4.4 1](/images/menu_bar_timer/menubartimer-support-img-v2_4_4-1.png)
 
