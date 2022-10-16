@@ -49,7 +49,7 @@ import Foundation
 class PlayerController : NSObject
 {
     var player : Player = Player() // create player object
-    var delegate : PlayerControllerDelegate? // create delegate object
+    weak var delegate : PlayerControllerDelegate? // create delegate object
     func attackKeyPressed()
     {
         player.attack() // tell player object to attack
@@ -57,7 +57,7 @@ class PlayerController : NSObject
     }
 }
 
-protocol PlayerControllerDelegate
+protocol PlayerControllerDelegate: AnyObject
 {
     func playerDidAttack()
 }
