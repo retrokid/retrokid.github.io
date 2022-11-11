@@ -3,7 +3,7 @@ PS1="[\u@\h\w/]\$: "
 alias gpg="gpg2"
 
 printf "\n"
-printf "EEEEEEEEEEEEEEEEEEEEEE     :=-.                          :=*#8# \n"
+printf "\033[36mEEEEEEEEEEEEEEEEEEEEEE\033[0m     :=-.                          :=*#8# \n"
 printf "EffffffffffffffffffffE      8888#=.                   .=#888888+\n"
 printf "EffffffffffffffffffffE      #88+-.:-+*#8888888#*=  :+#88888888# \n"
 printf "EEffffffEEEEEEEEEffffE      -+.:+888888888888888=.#8888888888*  \n"
