@@ -269,7 +269,7 @@ The output looks like this:
 
 You can also print words in the midst of fields and computed values:
 
-```
+```awk
 { print "total pay for", $1, "is", $2 * $3 }
 ```
 
