@@ -768,36 +768,141 @@ END { for (i = NR; i > 0; i = i - 1)
 Although awk can be used to write programs of some complexity, many useful programs are not much more complicated than what we've seen so far. Here is a collection of short programs that you might find handy and/or instructive. Most are variations on material already covered.
 
 
-##### 1. Print the total number of input lines:
+#### 1. Print the total number of input lines:
 	
 ```awk
 END { print NR }
 ```
 
-##### 2. Print the tenth input line:
+#### 2. Print the tenth input line:
 
 ```awk
 NR == 10
 ```
 
+#### 3. Print the last field of every input line:
 
+```awk
+{ print $NF }
+```
 
+#### 4. Print the last field of the last input line:
 
+```awk
+	{ field = $NF} 
+END { print field }
+```
 
+#### 5. Print every input line with more than four fields:
 
+```awk
+NF > 4
+```
 
+#### 6. Print every input line in which the last field is more than 4:
 
+```awk
+$NF > 4
+```
 
+#### 7. Print the total number of fields in all input lines:
 
+```awk
+	{ nf = nf + NF } 
+END { print nf }
+```
 
+#### 8. Print the total number of lines that contain __Beth__:
 
+```awk
+/Beth/ 	{ nlines = nlines + 1 } 
+END 	{ print nlines }
+```
 
+#### 9. Print the largest first field and the line that contains it (assumes some `$1` is positive):
 
+```awk
+$1 > max { max = $1; maxline = $0 }
+END    	 { print max, maxline }
+```
 
+#### 10. Print every line that has at least one field:
 
+```awk
+NF > 0
+```
 
+#### 11. Print every line longer than 80 characters:
 
+```awk
+length($0) > 80
+```
 
+#### 12. Print the number of fields in every line followed by the line itself:
 
+```awk
+{ print NF, $0 }
+```
 
+#### 13. Print the first two fields, in opposite order, of every line:
 
+```awk
+{ print $2, $1 }
+```
+
+#### 14. Exchange the first two fields of every line and then print the line:
+
+```awk
+{ temp = $1; $1 = $2; $2 = temp; print }
+```
+
+#### 15. Print every line with the first field replaced by the line number:
+
+```awk
+{ $1 = NR; print }
+```
+
+#### 16. Print every line after erasing the second field:
+
+```awk
+{ $2 = ""; print }
+```
+
+#### 17. Print in reverse order the fields of every line:
+
+```awk
+{ for (i = NF; i > 0; i = i - 1) printf("%s ", $i) 
+  printf("\n" )
+}
+```
+
+#### 18. Print the sums of the fields of every line:
+
+```awk
+{ sum = 0
+  for (i = 1; i <= NF; i = i + 1) sum = sum + $i
+  print sum
+}
+```
+
+#### 19. Add up all fields in all lines and print the sum:
+
+```awk
+	{ for (i = 1; i <= NF; i = i + 1) sum = sum + $i } 
+END { print sum }
+```
+
+#### 20. Print every line after replacing each field by its absolute value:
+
+```awk
+{ for (i = 1; i <= NF; i = i + 1) if ($i < 0) $i = -$i 
+  print
+}
+```
+
+## 1.9 What Next?
+
+You have now seen the essentials of awk. Each program in this chapter has been a sequence of pattern-action statements. Awk tests every input line against the patterns, and when a pattern matches, performs the corresponding action. Patterns can involve numeric and string comparisons, and actions can include computation and formatted printing. Besides reading through your input files automatically, awk splits each input line into fields. It also provides a number of built-in variables and functions, and lets you define your own as well. With this combination of features, quite a few useful computations can be expressed by short programs - many of the details that would be needed in another language are handled implicitly in an awk program.
+The rest of the book elaborates on these basic ideas. Since some of the examples are quite a bit bigger than anything in this chapter, we encourage you strongly to begin writing programs as soon as possible. This will give you familiarity with the language and make it easier to understand the larger programs. Furthermore, nothing answers questions so well as some simple experiments. You should also browse through the whole book; each example conveys something about the language, either about how to use a particular feature, or how to create an interesting program.
+
+---------------------------------------------------------------------
