@@ -705,18 +705,80 @@ $ awk -f 'interest1.awk'
 
 ### For Statement
 
-page 28
+Another statement, `for`, compresses into a single line the initialization, test, and increment that are part of most loops. Here is the previous interest computation with a for:
+
+```awk
+# interest2 - compute compound interest
+# input: amount rate years
+# output: compounded value at the end of each year
+
+{
+	for (i = 1; i <= $3; i = i + 1) 
+		printf("\t%.2f\n", $1 * (1 + $2) ^ i)
+}
+```
 
 
+The initialization `i = 1` is performed once. Next, the condition `i <= $3` is tested; if it is true, the `printf` statement, which is the body of the loop, is performed. Then the increment `i = i + 1` is performed after the body, and the next iteration of the loop begins with another test of the condition. The code is more compact, and since the body of the loop is only a single statement, no braces are needed to enclose it.
+
+## 1.7 Arrays
+
+Awk provides arrays for storing groups of related values. Although arrays give awk considerable power, we will show only a simple example here. The following program prints its input in reverse order by line. The first action puts the input lines into successive elements of the array line; that is, the first line goes into `line[1]`, the second line into `line[2]`, and so on. The `END` action uses a while statement to print the lines from the array from last to first:
+
+```awk
+# reverse - print input in reverse order by line 
+
+	# remember each input line
+	{ line[NR] = $0 } 	
+
+	# print lines in reverse order
+END { i = NR 			 
+	  while (i > 0) {
+			print line[i]
+			i = i - 1
+		}
+	}
+```
+
+With emp. data, the output is
+
+```
+Susie 	4.25 	18 
+Mary 	5.50 	22 
+Mark 	5.00 	20 
+Kathy 	4.00 	10 
+Dan 	3.75 	0 
+Beth 	4.00 	0
+```
+
+Here is the same example with a `for` statement:
+
+```awk
+# reverse - print input in reverse order by line
+
+	{ line[NR] = $0 } # remember each input line
+
+END { for (i = NR; i > 0; i = i - 1) 
+		print line[i]
+	}
+```
+
+## 1.8 A Handful of Useful "One-liners"
+
+Although awk can be used to write programs of some complexity, many useful programs are not much more complicated than what we've seen so far. Here is a collection of short programs that you might find handy and/or instructive. Most are variations on material already covered.
 
 
+1. Print the total number of input lines:
+	
+```awk
+END { print NR }
+```
 
+2. Print the tenth input line:
 
-
-
-
-
-
+```awk
+NR == 10
+```
 
 
 
