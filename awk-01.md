@@ -768,13 +768,13 @@ END { for (i = NR; i > 0; i = i - 1)
 Although awk can be used to write programs of some complexity, many useful programs are not much more complicated than what we've seen so far. Here is a collection of short programs that you might find handy and/or instructive. Most are variations on material already covered.
 
 
-1. Print the total number of input lines:
+##### 1. Print the total number of input lines:
 	
 ```awk
 END { print NR }
 ```
 
-2. Print the tenth input line:
+##### 2. Print the tenth input line:
 
 ```awk
 NR == 10
