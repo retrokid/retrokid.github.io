@@ -86,14 +86,64 @@ Patterns control the execution of actions: when a pattern matches, its associate
 -----------------------------------------------------------------
 
 
+### BEGIN and END
 
+The `BEGIN` and `END` patterns do not match any input lines. Rather, the statements in the `BEGIN` action are executed before awk reads any input; the statements in the `END` action are executed after all input has been read. `BEGIN` and `END` thus provide a way to gain control for initialization and wrapup. `BEGIN` and `END` do not combine with other patterns. If there is more than one `BEGIN`, the associated actions are executed in the order in which they appear in the program, and similarly for multiple `END`'s. Although it's not mandatory, we put `BEGIN` first and `END` last.
+One common use of a `BEGIN` action is to change the default way that input lines are split into fields. The field separator is controlled by a built-in variable called `FS`. By default, fields are separated by blanks and/or tabs; this behavior occurs when `FS` is set to a blank. Setting `FS` to any character other than a blank makes that character the field separator.
 
+The following program uses the `BEGIN` action to set the field separator to a tab character (\t) and to put column headings on the output. The second `printf` statement, which is executed at each input line, formats the output into a table, neatly aligned under the column headings. The `END` action prints the
+totals. (Variables and expressions are discussed in Section 2.2)
 
+```awk
+# print countries with column headers and totals
 
+BEGIN { FS = "\t" # make tab the field separator 
+		printf("%10s %6s %5s	%s\n\n",
+		"COUNTRY", "AREA", "POP", "CONTINENT")
+	  }
+	  { printf("%10s %6d %5d	%s\n", $1, $2, $3, $4)
+	    area = area + $2
+	  	pop = pop + $3
+	  }
+END   { printf( "\n%10s %6d %5d\n", "TOTAL", area, pop) }
+```
 
+With the countries file as input, this program produces
 
+```
+COUNTRY   AREA   POP	CONTINENT
 
+      USSR   8649   275	Asia
+    Canada   3852    25	North America
+     China   3705  1032	Asia
+       USA   3615   237	North America
+    Brazil   3286   134	South America
+     India   1267   746	Asia
+    Mexico    762    78	North America
+    France    211    55	Europe
+     Japan    144   120	Asia
+   Germany     96    61	Europe
+   England     94    56	Europe
 
+     TOTAL  25681  2819
+```
+
+### Expressions as Patterns
+
+Like most programming languages, awk is rich in expressions for describing numeric computations. Unlike many languages, awk also has expressions for describing operations on strings. Throughout this book, the term __string__ means a sequence of zero or more characters. These may be stored in variables, or appear literally as string constants like `""` or `"Asia"`. The string `""`, which contains no characters, is called the __null string__. The term substring means a contiguous sequence of zero or more characters within a string. In every string, the __null string__ appears as a substring of length zero before the first character, between every pair of adjacent characters, and after the last character.
+Any expression can be used as an operand of any operator. If an expression has a numeric value but an operator requires a string value, the numeric value is automatically transformed into a string; similarly, a string is converted into a number when an operator demands a numeric value.
+Any expression can be used as a pattern. If an expression used as a pattern has a nonzero or nonnull value at the current input line, then the pattern matches that line. The typical expression patterns are those involving comparisons between numbers or strings. A comparison expression contains one of the six relational operators, or one of the two string-matching operators `~` (tilde) and `!~` that will be discussed in the next section. These operators are listed in table below.
+
+| Operator | Meaning                  | 
+| -------- | ------------------------ |
+| <        | less than                |
+| <=       | less than or equal to    |
+| ==       | equal to                 |
+| !=       | not equal to             |
+| >=       | greater than or equal to |
+| >        | greater than             |
+| ~        | matched by               |
+| !~       | not matched by           |
 
 
 
