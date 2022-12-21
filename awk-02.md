@@ -77,7 +77,7 @@ Patterns control the execution of actions: when a pattern matches, its associate
 4. `/regular expression/ { statements }`
 	- The __statements__ are executed at each input line that contains a string matched by the __regular expression__.
 5. `compound pattern { statements }`
-	- A compound pattern combines expressions with && (AND), || (OR), ! (NOT), and parentheses; the __statements__ are executed at each input line where the __compound pattern__ is true.
+	- A compound pattern combines expressions with `&& (AND), || (OR), ! (NOT)`, and parentheses; the __statements__ are executed at each input line where the __compound pattern__ is true.
 6. `pattern_1 , pattern_2 { statements }`
 	- A range pattern matches each input line from a line matched by pattern_1 to the next line matched by pattern_2, inclusive; the statements are executed at each matching line.
 
