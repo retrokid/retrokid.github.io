@@ -11,7 +11,6 @@ Menu Bar Timer is a high performance stopwatch/countdown-timer.
 It has coded with the latest Swift 5.1 language and latest apple libraries and designed for the latest MacOS.
 
 Minimum required MacOS version is 10.10.
-New features (v3.0) will be released at the end of 2021.
 
 For more information please visit one of the links below:
 
@@ -20,15 +19,3 @@ For more information please visit one of the links below:
 [Privacy Policy](/menubartimer-privacy-policy)
 
 -------------------------------
-
-## Kovala (Prototype)
-
-![Kovala Icon (prototype)](/images/kovala/kovala-icon-prototype.png)
-
-This is a "Simplest working prototype" of a gameplay idea. 
-
-TestFlight link:
-
-[https://testflight.apple.com/join/bAGI5p9c](https://testflight.apple.com/join/bAGI5p9c)
-
---------------------------------
