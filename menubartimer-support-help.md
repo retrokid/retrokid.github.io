@@ -90,9 +90,8 @@
 
 -----------------------------
 
-### To reach me please use one of the choices below:
+### To reach me please use the e-mail address below:
 
-- twitter: [@efeertugrul_](https://twitter.com/efeertugrul_)
-- e-mail menubartimer@gmail.com: [Send Mail](mailto:menubartimer@gmail.com)
+- e-mail: menubartimer@gmail.com [Send Mail](mailto:menubartimer@gmail.com)
 
 [Back to main page](../index)
