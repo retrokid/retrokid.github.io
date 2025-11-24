@@ -4,4 +4,4 @@
 
 ### Erdek
 
-![erdek](erdek.jpg)
+![erdek yuzevler](yuzevler.jpg)
