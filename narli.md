@@ -1,7 +1,7 @@
 ### Narlı
 
-![narli](narli.jpg)
+![narli](narli.png)
 
 ### Erdek
 
-![erdek yuzevler](yuzevler.jpg)
+![erdek yuzevler](erdek.png)
